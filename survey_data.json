@@ -1,0 +1,3335 @@
+{
+    "Resident": [
+        {
+            "survey_type": "Resident",
+            "survey_id": "mock_survey.pdf",
+            "responses": [
+                {
+                    "question_id": 1,
+                    "response": [
+                        "4 - Interested"
+                    ]
+                }
+            ]
+        },
+        {
+            "survey_type": "Resident",
+            "survey_id": "mock_survey.pdf",
+            "responses": [
+                {
+                    "question_id": 1,
+                    "response": [
+                        "4 - Interested"
+                    ]
+                }
+            ]
+        },
+        {
+            "survey_type": "Resident",
+            "survey_id": "mock_survey.pdf",
+            "responses": [
+                {
+                    "question_id": 1,
+                    "response": [
+                        "4 - Interested"
+                    ]
+                }
+            ]
+        },
+        {
+            "survey_type": "Resident",
+            "survey_id": "resident1.pdf",
+            "responses": [
+                {
+                    "question_id": 1,
+                    "response": [
+                        "ALL pessible, properly, |",
+                        "Is there anything else you'd like to tell us about your",
+                        "education needs or Interests? Ths Iwhumane)",
+                        "We. ees) aaah one hour TeC. GL! Re",
+                        "Oi uk tre. cel is cv val d.",
+                        "COUR",
+                        "Are here ae resources you wish were available to you",
+                        "whilehere? ASSIGtance, Par pesple",
+                        "LorpaeFully, + prs vealely",
+                        "ACLS Echo; \u00a9",
+                        "What is your education level? (optional)",
+                        "(1 No formal education",
+                        "CO Some high school (Grades 9-11)",
+                        "() High school diploma or GED",
+                        "OD Associate\u2019s degree",
+                        "(0 Bachelor's degree",
+                        "CO Some graduate school, no degree",
+                        "(Cl Master's degree or higher",
+                        "What is your age? (optional)",
+                        "O 17-24 O 55-64",
+                        "ae 34 O 65-74",
+                        "wee D 75-84",
+                        "A554 0 85 and over",
+                        "Thank you for completing this survey: Your feedback is valuable and will help the City of St. Louis - Division of Corrections better",
+                        "understand educational and reentry resource needs; We appreciate your honesty and responses.",
+                        "CJC Resident Survey: Education and Reentry Resources",
+                        "Instriictions: Please circle the answer that best fits.. You may use the back of this sheet fo answer th\u00e9 open-ended questions.",
+                        "How interested are you in taking educational,",
+                        "classes while you are here? (Select one)",
+                        "4 + Not Interested",
+                        "2 - Slightly Interested",
+                        "3 = Somewhat Interested",
+                        "4= Interested",
+                        "Very Interested",
+                        "How important is it to you to have access to",
+                        "classes and programs here? (Select one)",
+                        "4 - Not Important",
+                        ":2 =Slightly Important"
+                    ]
+                },
+                {
+                    "question_id": 2,
+                    "response": [
+                        "4 - [mportant",
+                        "Very Important",
+                        "Please explain why:",
+                        "How comfortable are you using computers or",
+                        "other technology? (Select one)",
+                        "1+ Not Comfortable",
+                        "2 = Slightly Comfortable",
+                        "3 - Somewhat Comfortable",
+                        "4 - Comfortable",
+                        "@ Very Comfortable",
+                        "If educational programs were offered, how likely",
+                        "would you be to participate? (Select one)",
+                        "1+ Not Likely",
+                        "2 = Slightly Likely",
+                        "3 - Somewhat Likely",
+                        "4+ Likely",
+                        "5 yNery Likely",
+                        "What is your experience with online learning or",
+                        "digital classes? (Select one)",
+                        "No experience,",
+                        "C1 Some experience",
+                        "| 0 Comfortable with online learning",
+                        "O. Experienced with online learning"
+                    ]
+                },
+                {
+                    "question_id": 3,
+                    "response": [
+                        "(Check all that apply)",
+                        "Theat and Writing",
+                        "0 Math",
+                        "Cob skits",
+                        "Mite Skills (for example: money mariag\u00e9ment...)",
+                        "a siniching High School.",
+                        "CO Using Computers \u2018and Technology",
+                        "Tioney Management",
+                        "\u00a9 Law Research:",
+                        "CO Community College / Higher Education",
+                        "DO Continue College Credits (for example; STLCC)",
+                        "\u00a9 Digital Library books",
+                        "Other:"
+                    ]
+                },
+                {
+                    "question_id": 4,
+                    "response": [
+                        "Is there anything else you'd like to tellus about your"
+                    ]
+                },
+                {
+                    "question_id": 5,
+                    "response": [
+                        "Are there other resources you wish were available to you"
+                    ]
+                },
+                {
+                    "question_id": 6,
+                    "response": [
+                        "What is your education level? (optional)",
+                        "0 No formal education",
+                        "EY Some high school (Grades 9-11)",
+                        "O High school diploma or GED",
+                        "\u00a9 Some college, no degree",
+                        "DD Associate's degree",
+                        "Bachelor's degree\u2019",
+                        "Oo Some graduate school, no degree",
+                        "(0 Master's degree or higher",
+                        "What is your age? (optional) \u2014-",
+                        "O 17-24 CJ 55-64",
+                        "(25-34 = CI 65-74",
+                        "35-44 0 75-84",
+                        "Do 45-54 0 85 and over",
+                        "| Thank you for completing this survey. Your feedback is valuable and will help the City of St, Louis - Division of Corrections better",
+                        "understand educational and reentry resource needs. We appreciate your honesty and responses.",
+                        "Co Waren FIS0QU5",
+                        "\u2018 et",
+                        "CJC Resident Survey: Education and Reentry Resources",
+                        "instructions: Please circle the answer that best fits. You may use the back of this sheet to answer the open-ended qu\u00e9stions:"
+                    ]
+                },
+                {
+                    "question_id": 7,
+                    "response": [
+                        "classes while you are here? (Select one) (Check all t pply)",
+                        "1- Not Interested : Reading and Writing\u2019",
+                        "2 Slightly Interested D Math",
+                        "3'- Somewhat Interested O vob dkitts"
+                    ]
+                },
+                {
+                    "question_id": 8,
+                    "response": [
+                        "ery Interested Finishifg High School",
+                        "0 Using Computers and Technology",
+                        "How important is it to you to have access to ney Management",
+                        "classes and programs here? (Select one) (J Law Research",
+                        "1 Not Important (1 Community College / Higher Education",
+                        "2- Slightly Important O Continue College Credits (for example: STLCC)"
+                    ]
+                },
+                {
+                    "question_id": 9,
+                    "response": [
+                        "{ 5 -Wery Important"
+                    ]
+                },
+                {
+                    "question_id": 10,
+                    "response": [
+                        "Le outlihe bag bore iS",
+                        "How comfortable are you using computers or Is there anything else you'd like to tell us about your",
+                        "other technology? (Select one) education needs or interests? ys",
+                        "1 - Not Comfortable  E. D",
+                        "2 - Slightly Comfortable * WMS. 3 JO",
+                        "3 - Somewhat Comfortable Are there other resources you wish were available to-you"
+                    ]
+                },
+                {
+                    "question_id": 11,
+                    "response": [
+                        "(& ~Very Comfortabie oo",
+                        "If educational programs were offered, how likely What is your education level? (optional)",
+                        "would you be to participate? (Select one) C1 Not Sducation :",
+                        "1-Not Likely Er Sone nigh echoo (Grades 9-11)",
+                        "2 - Slightly Likely\u201d High school diploma or GED",
+                        "3 - Somewhat Likely oO Some college, no degree",
+                        "4 - Likely C Associate\u2019s degree",
+                        "i) - Very Likely 0 Bachelor's degree",
+                        "() Some graduate school, no degree",
+                        "What is your experience with ontine learning or OO Master's degree or higher",
+                        "digital classes? (Select one) - a",
+                        "C0 No experience What is your age? (optional)",
+                        ". OD 17-24 (0 55-64",
+                        "se npr ess O 65-74",
+                        "Comfortable with online learning O 35-44 0 75-84",
+                        "0 45-54 C1 85 and over",
+                        "D).Experienced. with online leaming",
+                        "Thank you for completing this survey.: Your feedback is valuable and will help the City of St: Louis\u2019 Division of Corrections better",
+                        "understand educational and reentry resource needs., We appreciate your honesty and responses.",
+                        "\u2018How interested are you in taking educational.",
+                        ". classes while you are here? (Select one)",
+                        "1- Not Interested",
+                        "\u201cDO: * slightly Interested",
+                        "3+ Somewhat Interested",
+                        "4 Siptereited om i",
+                        "very interested",
+                        "How important is it to you to have access to",
+                        "classes and programs here? (Select one)",
+                        "4 - Not Important",
+                        "2'- Slightly. Important",
+                        "\u20183 - Somewhat tmportant",
+                        "4 -'Important",
+                        "S Very Important ;",
+                        "Please explain why: Knouiledye 'S pawer E",
+                        "avalible kay ts success,",
+                        "How comfortable are you using computers or",
+                        "other technology? (Select one)",
+                        "4 - Not Comfortable",
+                        "2 = Slightly Comfortable",
+                        "3 - Somewhat Comfortable",
+                        "4+ Comfortable",
+                        "(Svery Comfortable",
+                        "If educational programs were offered, how likely",
+                        "would you be to participate? (Select one)",
+                        "4 - Not Likely:",
+                        "2 - Slightly Likely\u2019",
+                        "3 - Somewhat Likely.",
+                        "4+ Likely.",
+                        "; (@y Very Likely",
+                        "What is your experience with online learning or",
+                        "digital classes? (Select one)",
+                        "OC) No experience",
+                        "(C1. Some experience",
+                        "ee with online learning",
+                        "E",
+                        "xperienced with online learning",
+                        "CJC Resident Survey:",
+                        "Education and Reentry Resources",
+                        "Instructions: Please circle the answer that best fits. You may use the back of this sheet to answer the open-ended questions."
+                    ]
+                },
+                {
+                    "question_id": 12,
+                    "response": [
+                        "(Check all that apply)",
+                        "(0 Reading and Writing",
+                        "0 Math",
+                        "(Job Skills",
+                        "FF Life Skills (for example: money management...).",
+                        "0 Finishing High School",
+                        "UO Using Computers and Technology",
+                        "Money Management.",
+                        "Law Research",
+                        "Comminity College / Higher Education\u2019",
+                        "0 Continue College Credits (for example: STLCC)",
+                        "D Digital Library books ,",
+                        "O Other:",
+                        "What do you hope to learn from educational programs?.",
+                        "GR,",
+                        "Is there anything else you\u2019d like to tell us about your",
+                        "education needs or Interests? N f} \u2018A",
+                        "Are there other resources you wish were available to you",
+                        "while here? AA",
+                        "What is your education level? (optional)",
+                        "1 No formal education",
+                        "O,.Some high school (Grades 9-11)",
+                        "et High school diploma or GED",
+                        "Some college, fo degree",
+                        "D Associate's degree:",
+                        "CO Bachelor's degree",
+                        "O Some graduate school, no degree",
+                        "CJ Master's degree or higher",
+                        "What is your age? (optional)",
+                        "0..17-24 OO 55-64",
+                        "Pf 25 34 OO 65-74",
+                        "D0 35-44 D 75-84",
+                        "45-54. 1 85 and over\u2019",
+                        "Thank you for completing this survey. Your feedback is valuable. and will help the City of St. Louis - Division of Corrections better:",
+                        "understand educational and reentry resource. needs. We appreciate your honesty and responses.",
+                        "CJC Resident Survey: Education and Reentry Resources |",
+                        "Instructions: Please circle the answer that b\u00e9st fits. You may use the back of this sheet to answer the open-ended questions.",
+                        "How interested are you in taking educational",
+                        "classes while you are here? (Select one)",
+                        "1,\u00bb Not interested",
+                        "2 - Slightly Interested",
+                        "@ Somewhat Interested",
+                        "4 - Iriterested",
+                        "5\u00bb Very Interested",
+                        "How important is it to you to have access to",
+                        "classes and programs here? (Select one)",
+                        "4 - Not Important",
+                        "2 - Slightly [mportant",
+                        "3 - Somewhat Important",
+                        "@ Important",
+                        "5 - Very Important",
+                        "Pease come why: Woebe tached dwrA, fo",
+                        "4 btued Sum Pos'tive. te",
+                        "rake ot my ol 048 teen Situation #",
+                        "How comfortable are you using computers or",
+                        "other technology? (Select one)",
+                        "7 ~ Not Comfortable",
+                        "2 = Slightly Comfortable",
+                        ".3-= Somewhat Comfortable",
+                        "*:4 Comfortable",
+                        "@ Very Comfortable",
+                        "If educational programs were offered, how likely",
+                        "\u2018would you be to participate? (Select one)"
+                    ]
+                },
+                {
+                    "question_id": 13,
+                    "response": [
+                        "2 = Slightly Likely",
+                        ".3 ~ Somewhat Likely",
+                        "(a) Likely",
+                        "5 = Very Likely",
+                        "\u2018What is your experience with online learning or",
+                        "digital classes? (Select one)",
+                        "0 No experience",
+                        "C1 Some experience,",
+                        "(& Comfortabie with oniline learning",
+                        "oO Experienced with online learning"
+                    ]
+                },
+                {
+                    "question_id": 14,
+                    "response": [
+                        "(Check all that apply)",
+                        "O. Reading and Writing",
+                        "O Math",
+                        "01 Job Skills",
+                        "I Life Skills (for exampie: money management.;:)",
+                        "0 Finishing High School",
+                        "o Using Computers and Technology",
+                        "Money Management",
+                        "Law Research",
+                        "C1 Community College / Higher Education",
+                        "\u2018continue College Credits (for example: STLCC)",
+                        "(Y Digital Library books",
+                        "O Other: *",
+                        "What do hie Wee to learn moray oan programs?,",
+                        "srs an veabe",
+                        "Is at anything else you'd ike to tell us about your"
+                    ]
+                },
+                {
+                    "question_id": 15,
+                    "response": [
+                        "_Are there other resources you wish were available to you",
+                        "while here? als doloniyd fee Yoon y",
+                        "Workkour: otmer ly Jecess V6 bette\u2019 fox",
+                        "$3C->_ a \u2014\u2014\u2014\u2014",
+                        "What is your education level? (optional)",
+                        "CO No formal education",
+                        "C1 Some high school (Grades 9-11)",
+                        "CO High\u2019school diploma or GED",
+                        "IY Some college, no degree",
+                        "OC Associate's degree",
+                        "CO Bachelor\u2019s degree",
+                        "C1 Some\u00e9 graduate school, no degree",
+                        "0 Master's degree or higher",
+                        "What is your age? (optional)",
+                        "O,17-24 0 55-64",
+                        "wey\u2019: 25-34 QO 65-74.",
+                        "0 35-44 OD 75-84.",
+                        "O 45-54 0 85 and over",
+                        "Thank you for completing this survey. Your feedback is valuable and will help the City of St. Louis - Division of Corrections better\u2019",
+                        "\u2018understand educational and reentry resource needs., We appreciate your honesty and responses.",
+                        "se gnert) CJC Resident Survey: Education and Reentry Resources\u2019 ai tbL",
+                        "instructions: Please circle the answer that best fits. You may use the back of this sheet fo answer the open-ended questions.",
+                        "How interested are you in taking educational",
+                        "classes while you are here? (Select one)",
+                        "\u2018t'=Not Interested",
+                        "2 Slightly Interested",
+                        "\u20183. Somewhat Interested",
+                        "\u20184.= Interested",
+                        "\u201c5 - Very Interested",
+                        "How important is it to you to have access to",
+                        "classes and programs here? (Select one)",
+                        "1+ Not Important",
+                        "2 * Slightly Important\u2019",
+                        "3 = Somewhat Important",
+                        "4 ~- tmportan",
+                        "5~-Very Important.",
+                        "Please explain why: BO G Chl ootniy My Gof}",
+                        "\u2018How comfortable are you using computers or\u2019",
+                        "other technology? (Select one)",
+                        "1'- Not Comfortable:",
+                        "2'- Slightly Comfortable",
+                        "3 = Somewhat Cornfortable",
+                        "=o fortable >",
+                        "5 - Very Comfortable",
+                        "If educational programs were offered, how likely",
+                        "would you be to participate? (Select one)",
+                        "4 - Not Likely",
+                        "\u20182.- Slightly Likely",
+                        "3'- Somewhat Likely",
+                        "& \u00abLikely",
+                        "\u20185. Very Likely",
+                        "What is your experience with online learning or",
+                        "digital classes? (Select one)",
+                        "No experience",
+                        "2 Some experience",
+                        "0 Comfortable with online learning",
+                        "(1 Experienced With online learning"
+                    ]
+                },
+                {
+                    "question_id": 16,
+                    "response": [
+                        "(Check all that apply):",
+                        "OO Reading and Writing",
+                        "Math",
+                        "Job Skills",
+                        "C Life Skills (for example: money management...)",
+                        "Finishing High School",
+                        "Using Computers and Technology",
+                        "Money Management",
+                        "Law Research",
+                        "\u201cGD Community College / Higher Education",
+                        "(0 Continue College Credits (for example: STLCC)",
+                        "O Digital Library books",
+                        "OO Other:"
+                    ]
+                },
+                {
+                    "question_id": 17,
+                    "response": [
+                        "OAT AD My COuLAbCd WehTwe,",
+                        "Condy Homa:",
+                        "Is there anything else you'd like to tell us about your"
+                    ]
+                },
+                {
+                    "question_id": 18,
+                    "response": [
+                        "Are there other resources you wish were available to you"
+                    ]
+                },
+                {
+                    "question_id": 19,
+                    "response": [
+                        "What is your education level? (optional)",
+                        "\u00a9 No formal education",
+                        "Some high school (Grades 9-11)",
+                        "\u201cGO High school diploma or GED",
+                        "(1 Some college, no degree",
+                        "0 Associate's degree.",
+                        "O1 Bachelor's degree _",
+                        "0 Some graduate school, no degree:",
+                        "O Master's degree or higher",
+                        "What is your age? (optional)",
+                        "1 17-24 OO 55-64",
+                        "0 25-34 O 65-74",
+                        "35-44 OQ 75-84",
+                        "/() 45-54. * (1 85 and over",
+                        "\u201cThank you for completing this survey. Your fe\u00e9dback is valuable and will help the City of St. Louis = Division of Corrections better",
+                        "\u2018understand educational and reentry resource needs. We appreciate your honesty and responses.",
+                        "i ;",
+                        "Weldon tuddlen 2\u00a2- BY",
+                        "CJC Resident Survey: Education and Reent",
+                        "esources",
+                        "Instructions: Please circle the answer that best fits. You may use the back of this sheet to answer the open-ended questions.",
+                        "\u2018How interested are you in taking educational",
+                        "classes while you are here? (Select one)",
+                        "1 + Not Interested",
+                        "2-+'Slightly Interested"
+                    ]
+                },
+                {
+                    "question_id": 20,
+                    "response": [
+                        "\u20184 \u00ab Interested",
+                        "{S~ Very interested",
+                        "How important is it to you to have access to",
+                        "classes and programs here? (Select one)",
+                        "\u20181+ Not. [mportant"
+                    ]
+                },
+                {
+                    "question_id": 21,
+                    "response": [
+                        "3'- Somewhat Important",
+                        "4 =Important",
+                        "(6- Very Important:",
+                        "Please explain why:;",
+                        "Lr world 1ke fo learn",
+                        "Mot\u00e9 than Z. atteasy Enos.",
+                        "How comfortable are you using computers or",
+                        "other technology? (Select one)",
+                        "1-=,Not Comfortable",
+                        "\u20182 Slightly Comfortable",
+                        ":3.- Somewhat Comfortable",
+                        "4 - Comfortable",
+                        ".5.- Very Comfortable",
+                        "If educational programs were offered, how likely",
+                        "would you be to participate? (Select one)"
+                    ]
+                },
+                {
+                    "question_id": 22,
+                    "response": [
+                        "2 - Slightly Likely",
+                        "3 - Somewhat Likely\u2019",
+                        "4- io",
+                        "What is your experience with online learning or",
+                        "digital classes? (Select one)",
+                        "0 No\u2018experience",
+                        "Oo Some experience",
+                        "{ Comfortable with online learning",
+                        "C1 Experienced with online learning",
+                        "\u2018Thank you for completing this survey. Your feedback is valuable and will help the. City of St. Louis - Division of Corrections better"
+                    ]
+                },
+                {
+                    "question_id": 23,
+                    "response": [
+                        "(Check all that apply)",
+                        "Op eading and Writing:",
+                        "Math",
+                        "(/Job Skills",
+                        "tie Skills (for example: money management...)",
+                        "(0Finishing High School",
+                        "0 Using Computers and Technology",
+                        "[aFtoney Management",
+                        "\u00a9 Law Research",
+                        "(0 Community College / Higher Education",
+                        "OJ Continue College Credits (for example: STLCC)",
+                        "O Digital Library books",
+                        "OO Other:",
+                        "What do you hope to learn from educational programs?,",
+                        "To to Housing Walk aad fay",
+                        "AV P9Sver",
+                        "\u2018Is there anything else you'd like to tell us about your"
+                    ]
+                },
+                {
+                    "question_id": 24,
+                    "response": [
+                        "LT tile math, hut dene Ihe",
+                        "Reading aloters",
+                        "Are there other resources you wish were available to you"
+                    ]
+                },
+                {
+                    "question_id": 25,
+                    "response": [
+                        "Neo phar at the.",
+                        "1me",
+                        "What is your education level? (optional)",
+                        "O No formal education",
+                        "\u201cSome high school (Grades 9-11)",
+                        "C1 High school diploma or GED",
+                        "O Some college, no degree",
+                        "(CD Associate's degree",
+                        "0 Bachelor's degree",
+                        "(0 Some graduate school, no degree",
+                        "1 Master's degree or higher",
+                        "What is your age? (optional)",
+                        "DI 47-24 DO 55-64",
+                        "Bases () 65-74",
+                        "UO) 35-44 OD 75-84",
+                        "OD 45-54 OD 85 and over",
+                        "understand educational and. reentry resource needs. We appreciate your honesty and fesponses.,",
+                        "CJC Resident Survey: Education and Reentry Resources",
+                        "instructions: Please circle the answer that best fits. You may use the back of this sheet to answer the. open-ended questions.",
+                        "How interested are you in taking educational",
+                        "classes while you are here? (Select one)",
+                        "1- Not interested"
+                    ]
+                },
+                {
+                    "question_id": 26,
+                    "response": [
+                        "3 - Somewhat Interested",
+                        ".4~ Interested",
+                        "6-Very interested",
+                        "How important is it to you to have access to",
+                        "classes and programs here? (Select one)",
+                        "1- Not important"
+                    ]
+                },
+                {
+                    "question_id": 27,
+                    "response": [
+                        "3 - Somewhat Important",
+                        "-4 - Important.",
+                        "\u00a7 -Wery Important,",
+                        "Please explain why: +k Veep wund OCCLpted",
+                        "Wo & POSH Varner |",
+                        "How comfortable are you using computers or",
+                        "other technology? (Select one):"
+                    ]
+                },
+                {
+                    "question_id": 28,
+                    "response": [
+                        "4 3 - Somewhat Comfortable",
+                        "| 4 - Comfortable",
+                        "( 5 - Very Comfortable",
+                        "If educational programs were offered, how likely",
+                        "would you be to participate? (Select one)",
+                        "1\u00bb Not Likely",
+                        "2-- Slightly Likely",
+                        "3 - Somewhat Likely",
+                        "4- Likely",
+                        "(vey Likely",
+                        "What is your experience with online learning or",
+                        "digital classes? (Select one)",
+                        "1 No experience",
+                        "(1 Som\u00e9 experience\u2019",
+                        "| UO Comfortable with online learning",
+                        "| mE getencos with online learning",
+                        "Thank you for completing this survey. Your feedback is valuable and will help the City of St. Louis - Division of Corrections better",
+                        "MO +o",
+                        "What type of programs would you be interested in?.",
+                        "(cn apply)",
+                        "arog and Writing",
+                        "a .",
+                        "b Skills",
+                        "te Skills (for example: money mafiagemient...)",
+                        "0 Ejnishing High Schoo!",
+                        "\" Using Computers and Technology:",
+                        "C0 froney Management",
+                        "Cohen",
+                        "Pim nity College / Higher Education",
+                        "Cate College Credits (for example: STLCC)",
+                        "pot Library books",
+                        "ther: ALLS"
+                    ]
+                },
+                {
+                    "question_id": 29,
+                    "response": [
+                        "Avy thn . tank 1 Lan dace w|",
+                        "Is there anything else you'd like to tell us about your"
+                    ]
+                },
+                {
+                    "question_id": 30,
+                    "response": [
+                        "PLEASE, HELP USS",
+                        "Are there other resources you wish were available to you"
+                    ]
+                },
+                {
+                    "question_id": 31,
+                    "response": [
+                        "u \\\\ I",
+                        "What Is your education level? (optional)",
+                        "0 No format education\u2019",
+                        "O Some high school (Grades 9-11)",
+                        "DO High school diploma or GED",
+                        "0 Sere college, no degree",
+                        "Associate's degree",
+                        "CD Bachelor's degree",
+                        "O Some graduate school, no degree",
+                        "C1 Master's degree or higher",
+                        "What is your age? (optional)",
+                        "DO 17-24 OO 55-64",
+                        "0 25-347~ O 65-74",
+                        "5-44 O1 75-84",
+                        "OO 45-54 1 85 and over\u2019",
+                        "\u2018understand educational and reentry resource needs., We appreciate your honesty and responses:",
+                        "Loom 24 Sb6%",
+                        "CJC Resident Survey: Education and Reentry Resources",
+                        "Instructions: Please circle the answer that best fits. \u2018You may use the back of this sheet to answer the open-ended questions.",
+                        "How interested are you in taking educational",
+                        "classes while you are here? (Select one)",
+                        "\u20184 ~ Not Interested",
+                        "\u20182 Slightly interested",
+                        "3 - Somewhat Interested",
+                        "4 - Interested"
+                    ]
+                },
+                {
+                    "question_id": 32,
+                    "response": [
+                        "How important is it to you to have access to",
+                        "classes and prograims here? (Select one)",
+                        "1:- Not Important",
+                        ".2 Slightly Important"
+                    ]
+                },
+                {
+                    "question_id": 33,
+                    "response": [
+                        "4-Important _",
+                        "5 = Very Important",
+                        "cel explain why: Cae 4242. Ory\u00a5onD",
+                        "Tbe ea WALLS AND eAterte",
+                        "Bile Fete,",
+                        "ae OP 6 Re are you Re He Ta or",
+                        "titer technology? (Select one)",
+                        "1,- Not Comfortable",
+                        "2 - Slightly Comfortable",
+                        "3 - Somewhat Comfortable",
+                        "4 ~ Comfortable",
+                        "AS = Very Comfortable",
+                        "If educational programs were offered, how likely",
+                        "would you be to participate? (Select one)",
+                        "\u20181 - Not Likely\u2019",
+                        "2- Slightly Likely",
+                        "3 -- Somewhat Likely",
+                        "4- Likely",
+                        "((&-Very Likely )",
+                        "What is your experience with online learning or\u2019",
+                        "digital classes? (Select one)",
+                        "(1 \\No experience",
+                        "C1 \u2018Some experience",
+                        "Comfortable with online learning",
+                        "Waowienced with online learning"
+                    ]
+                },
+                {
+                    "question_id": 34,
+                    "response": [
+                        "(Check all that apply)",
+                        "O Reading and Writing",
+                        "0 Math",
+                        "0 Job Skills",
+                        "CO Life Skills (for example: money management...)",
+                        "CO Finishing High School",
+                        "C1 Using Computers and Technology\u2019",
+                        "\u2018Money Management",
+                        "C1 Law Research:",
+                        "( Community College / Higher Education",
+                        "Continue College Credits (for example: STLCC)",
+                        "C) Digital Library books",
+                        "OO Other:"
+                    ]
+                },
+                {
+                    "question_id": 35,
+                    "response": [
+                        "Te ez A BC Crovene",
+                        "CH AcOke Ams 22ed28",
+                        "Is there anything else you'd like to tell us about your"
+                    ]
+                },
+                {
+                    "question_id": 36,
+                    "response": [
+                        "Are there other resources you wish were available to you",
+                        "while here? AOL 5 cd A 4S.",
+                        "416 0othsteaL. )PLumataG, HVrAc/e",
+                        "AND Ode ornehiey",
+                        "What is your education level? (optional)",
+                        "0 No formal education",
+                        "1 Some high school (Grades 9-11)",
+                        "(1 High school diploma or GED",
+                        "0 Some college, no degree",
+                        "()-4Ssociate\u2019s degree",
+                        "OO Bachelor's degree",
+                        "(0 Some graduate school, no degree",
+                        "(1 Master's degree or higher",
+                        "What is your age? (optional)",
+                        "OO 17-24 DD 55-64",
+                        "O 25-34 O 65-74",
+                        "35-44 \u2018DO 75-84",
+                        "DD 45-54 D0 85 and over",
+                        "Thank you for completing this survey.: Your feedback is valuable and will help the City of St. Louis'- Division of Corrections better",
+                        "understarid educational and reentry resource needs. We appreciate your honesty and responses;",
+                        "CJC Resident Survey: Education and Reentry Resources",
+                        "Instructions: Please circle the answer that best fits. You may use the back of this sheet to answer the open-ended questions:",
+                        "How interested are you in taking educational",
+                        "classes while you are here? (Select one)",
+                        "4 - Not Interested",
+                        "2 = Slightly Interested",
+                        "3 - Somewhat Interested",
+                        "(4) Interested",
+                        "(5) Very Interested",
+                        "How important is it to you to have access to",
+                        "classes and programs here? (Select one)",
+                        "\u20184 - Not Important",
+                        "2'< Slightly Important:",
+                        "'3.-'Somewhat Important",
+                        "4 - Important",
+                        "\u2018Gy very Important",
+                        "Please explain why:",
+                        "How comfortable are you using computers or:",
+                        "\u2018other technology? (Select one):",
+                        "1 ~.Not Comfortable",
+                        "'2.\u00ab Slightly Comfortable",
+                        ":3 - Somewhat Comfortable",
+                        "4- Comfortable!",
+                        "\u00ae) Very Comfortable",
+                        "If educational programs were offered, how likely",
+                        "would you be to participate? (Select one)",
+                        "1,- Not Likely",
+                        "2- Slightly Likely",
+                        "3 - Somewhat Likely",
+                        "4- Likely",
+                        "\u00a9 very Likely",
+                        "What is your experience with online learning or",
+                        "digital classes? (Select one)",
+                        "(0 No experience",
+                        "4 Some experience",
+                        "0 Comfortable\u2019with online learning",
+                        "( Experienced with online learning",
+                        "Is there anything else you'd like to tell us about your."
+                    ]
+                },
+                {
+                    "question_id": 37,
+                    "response": [
+                        "(Check all that apply)",
+                        "() Reading and Writing",
+                        "C \u2018Math ,",
+                        "-Job Skills",
+                        "\u00b0 Life Skills (for example: money management.:.)",
+                        "_O Finishing High Schoo!",
+                        "Using Computers and Technology",
+                        "Money Management \"",
+                        "OC Law Research",
+                        "a Community College / Higher Education:",
+                        "Continue College Credits (for example: STLCC)",
+                        "C1 Digital Library books",
+                        "Others"
+                    ]
+                },
+                {
+                    "question_id": 38,
+                    "response": [
+                        "All Sowrces",
+                        "education needs or Interests? 55 } Ove. | erywin 3",
+                        "Are there other resources you wish were available to you",
+                        "while here? Co npobers ore backs",
+                        "What is your education level? (optional)",
+                        "(No formal! education",
+                        "C1 Some high school (Grades 9-11)",
+                        "\"KK High school diploma or GED",
+                        "0 Some college, no degree",
+                        "CJ Associate's degree.",
+                        "\u2018Cl Bachelor's degree.",
+                        "o. Some graduate school, no degree",
+                        "(1 Master\u2019s degree or higher.",
+                        "What is your age? (optional)",
+                        "0) 17-24. O01 55-64 |",
+                        "O 25-34. 65-74",
+                        "bg 35-44 O 75-84",
+                        "OO 45-54. 0 85 and over",
+                        "\u2018Thank you for completing this survey. Your feedback is valuable and will help the City of St, Louis - Division of Corrections better",
+                        "understand educational and reentry resource needs. We appreciate your honesty and responses. ;",
+                        "\u2018CJC Resident Survey! Education and Reentry Resources",
+                        "Instructions? Please circle the answer that best fits: You may use the back of this sheet to answer the open-ended questions.,",
+                        "How interested are you in taking educational",
+                        "classes while you are here? (Selectone) ,",
+                        "4~ Not Interested \u00b0",
+                        "2 = Slightly Interested:"
+                    ]
+                },
+                {
+                    "question_id": 39,
+                    "response": [
+                        "4 - Interested",
+                        "@) Very Interested\u2019",
+                        "How important is it to you to have access to",
+                        "classes and programs here? (Select one)",
+                        "1 - Not Important",
+                        "2 - Slightly Important",
+                        "3 - Somewhat Important",
+                        "4 - Important",
+                        "(5) Very Important",
+                        "Please explain why:",
+                        "How comfortable are you using computers or",
+                        "other technology? (Select one)",
+                        "1+ Not Comfortable",
+                        "'2'\u00bb Slightly Comfortable",
+                        ":3 = Somewhat Comfortable",
+                        "4=Comfortable. <",
+                        "3} Very Comfortable",
+                        "If educational programs were offered, how likely",
+                        "\u2018would you be to participate? (Select one)",
+                        "1- Not Likely",
+                        "2 - Slightly Likely",
+                        "3 - Somewhat Likely\u2019",
+                        "i Likely\u2019",
+                        "5 - Very Likely",
+                        "w",
+                        "What is your experience with online learning or",
+                        "digital classes? (Select one) .",
+                        "() No experience",
+                        "DD Some experience",
+                        "Ww Comfortable with online learning",
+                        "1 Experienced with online learning"
+                    ]
+                },
+                {
+                    "question_id": 40,
+                    "response": [
+                        "(Check all that apply)",
+                        "Xj} Reading and Writing",
+                        "E) Math",
+                        "BQ Job Skills",
+                        "f Life Skills (for example: money management...)",
+                        "1 Finishing High School",
+                        "ry Using Computers and Technology",
+                        "%! Money Management",
+                        "&@ Law Research",
+                        "{%) Community College / Higher Education",
+                        "Continue College Credits (for example: STLCC)",
+                        "\u00a7@ Digital Library books",
+                        "& Other:;",
+                        ",",
+                        ".",
+                        "What do you hope to learn from educational programs? ;",
+                        "\u201cTaina Xnok wilt helo me When Ves out.",
+                        "Is there anything else you'd like to tell us about your"
+                    ]
+                },
+                {
+                    "question_id": 41,
+                    "response": [
+                        "Are there other resources you wish were available to you",
+                        "while here? Leaeniney o ner Sannin ges",
+                        "What is your education level? (optional)",
+                        "0 No formal education ,",
+                        "\u00a34 Some high school (Grades 9-11)",
+                        "\u2018C1 High schoo! diploma or GED",
+                        "0) Some college, no degree",
+                        "\u2018DD Associate\u2019s degree",
+                        "OO Bachelor's degree\u2019",
+                        "OO Some graduate school, no degree",
+                        "( Master's degree or higher",
+                        "What is your age? (optional)",
+                        "1 17-24 0 55-64.",
+                        "& 25-34 0 65-74",
+                        "0 35-44 C1. 75-84",
+                        "1D 45-54 (1 85 and over",
+                        "\u2018Thank you for completing this survey. Your feedback is valuable and will help th\u00e9 City of St. Louis- Division of Corrections better",
+                        "understand educational and reentry resource needs. We appreciate your honesty and responses.",
+                        "l CJC Resident Survey: Education and Reentry Resources",
+                        "Instructions; Please circle the answer that best fits. You may use the back of this sheet to answer the open-ended questions,",
+                        "How interested are you in taking educational",
+                        "classes while you are here? (Select one)",
+                        "1-= Not Interested",
+                        "2'= Slightly Interested",
+                        ".3.+ Somewhat Interested",
+                        "'4.- Interested",
+                        "Very Interested",
+                        "\u2018classes and programs here? (Select one)",
+                        "| How important is it to you to have access to",
+                        "1 Not Important",
+                        "Sa",
+                        "2 + Slightly Important,",
+                        "3 = Somewhat Important",
+                        "\u20184 = Important",
+                        "ery Important",
+                        "Please explain why: TEI slack Ina cell",
+                        "we hAln Er freedom would te",
+                        "eae",
+                        "ow comfortable are you using computers or",
+                        ". + other technology? (Select one)",
+                        "\u2018\u00a34 Not Comfortable"
+                    ]
+                },
+                {
+                    "question_id": 42,
+                    "response": [
+                        "\u20183 - Somewhat Comfortable",
+                        "| - Comfortable:",
+                        "Y",
+                        "| Very Comfortable",
+                        "\u2018Hf educational programs were offered, how likely",
+                        "would you be to participate? (Select one)",
+                        "\u20181 -\\Not Likely",
+                        "2 + Slightly Likely\u2019",
+                        "3 - Somewhat Likely",
+                        "4 - Likely\u2019",
+                        "Very Likely",
+                        "What is your experience with online learning or",
+                        "digital classes? (Select one)",
+                        "O No experience",
+                        "Some experience",
+                        "() Comfortable with online learning",
+                        "CO Experienced with online learning",
+                        "Thank you for completing this survey. Your feedback is valuable and will help th\u00e9 City of St. Louis - Division of Corrections better",
+                        "What type of programs would you be interested in?\u201d",
+                        "(Check all that apply).",
+                        "LC Reading and Writing",
+                        "0 Math",
+                        "et Job Skills",
+                        "Life Skills (for example: money management...)",
+                        "U1 Finishing High School",
+                        "val Using Computers and Technology",
+                        "Money Management",
+                        "i Law Research",
+                        "a Community College / Higher Education",
+                        "i Continue College Credits (for example: STLCC):",
+                        "O Digital Library \u2018books",
+                        "O Other!"
+                    ]
+                },
+                {
+                    "question_id": 43,
+                    "response": [
+                        "Corthbyealion",
+                        "Is there anything else you'd like to tell us about your",
+                        "education needs or Interests? NV; My",
+                        "Are there other resources you wish were available to you",
+                        "while here? Lhench",
+                        "What is your education level? (optional)",
+                        "0D No formal education",
+                        "O Some high school (Grades 9-11)",
+                        "C1 High school diploma or GED",
+                        "Some college, no degree",
+                        "OO Associate's degree",
+                        "(1 Bachelor's degree",
+                        "C1 Some graduate school, no degree",
+                        "C1 Master's degree or higher\u2019",
+                        "What is your age? (optional)",
+                        "0 17-24 0 55-64",
+                        "re 25-34 Oo 65-74",
+                        "35-44 C1 75-84.",
+                        "OO 45-54 \u00a31 85 and over",
+                        "understand educational and reentry resource needs. We appreciate your honesty and responses.",
+                        "o",
+                        "CJC Resident Survey: Education and Reentry Resources",
+                        "Jnstructions: Please circle the answer that best fits. You may use the back of this sheet to answer the open-ended questions.",
+                        "How interested are you in taking educational",
+                        "classes while you are here? (Select one)"
+                    ]
+                },
+                {
+                    "question_id": 44,
+                    "response": [
+                        "2 \u00ab Slightly interested",
+                        "\u2018(3 -)Somewhat Interested",
+                        "4 - Interested.",
+                        "5 - Very Interested.",
+                        "How important is it to you to have access to",
+                        "classes and programs here? (Select one)",
+                        "1- Not Important",
+                        "2 - Slightly Important",
+                        "3 - Somewhat Important;",
+                        "@ Important",
+                        "5- Very Important",
+                        "Please explain why:",
+                        "\u2018How comfortable are you using computers or",
+                        "other technology? (Select one)",
+                        "\u201c{ - Not Comfortable",
+                        "2- Slightly Comfortable",
+                        "\u20183 Somewhat Comfortable,",
+                        "4 - Comfortable",
+                        "\u00ae Very Comfortable",
+                        "If educational programs were offered, how likely",
+                        "would you be to participate? (Select one)",
+                        "1-Not Likely",
+                        "2- Slightly Likely",
+                        "'3 - Somewhat Likely",
+                        "4- Likely",
+                        "Very Likely",
+                        "What is your experience with online learning or",
+                        "digital classes? (Select one)",
+                        "\u2018C1 No experience",
+                        "(1, Some experience",
+                        "\u2018Comfortable with online learning",
+                        "(0 Experienced with online learning",
+                        "Thank you for completing this survey. Your feedback is valuable and will help the City of St. Louis - Division of Corrections better",
+                        "\u2018understand educational and reentry resource needs, We appreciate your honesty and responses.",
+                        "Important lite 6H"
+                    ]
+                },
+                {
+                    "question_id": 45,
+                    "response": [
+                        "(Check ail that appiy)",
+                        "Reading and Writing",
+                        "\u2018OD Math",
+                        "0 Job Skills",
+                        "hy Life Skills (for example: money management.;.)",
+                        "Finishing High School",
+                        "Using Computers and Technology:",
+                        "Money Management",
+                        "it \u2018Law Research",
+                        "Community College / Higher Education",
+                        "O Continue College Credits (for example: STLCC)",
+                        "OO Digital Library books",
+                        "OO Other:"
+                    ]
+                },
+                {
+                    "question_id": 46,
+                    "response": [
+                        "How to manade: hun MOACL And Othel",
+                        "Is there anything else you'd like to tell us about your: oy",
+                        "education needs or interests? would {? Kie--ho te",
+                        "lcwnn +0 bo atuck dt ver",
+                        "Are there other linear you wish were available to you",
+                        "while here? Ay | { brary, of TooKS",
+                        "w",
+                        "What is your education level? (optional)",
+                        "(2 No formal education",
+                        "Some high school (Grades 9-11) \u00b0",
+                        "High school diploma or GED",
+                        "OC Some college, no degree:",
+                        "(I Associate's degree",
+                        "O Bachelor's degree",
+                        "1 Some graduate school, no degree",
+                        "Cl Master's degree or higher\u201d",
+                        "What is your age? (optional)",
+                        "0, 17-24 DO 55-64.",
+                        "25-34 OO 65-74",
+                        "OO 35-44 0 75-84",
+                        "OF 45-54 0 85\u2019and over .",
+                        "CJC Resident Survey: Education and Reentry Resources",
+                        "Instructions: Please circle the answer that best fits. You may use the back of this sheet to answer the open-ended questions.",
+                        "How interested are you in taking educational",
+                        "classes while you are here? (Select one)",
+                        "1- Not Interested",
+                        "2 Slightly Interested",
+                        "3 - Somewhat Interested",
+                        "How important is it to you to have access to",
+                        "classes and programs here? (Select one)",
+                        "1~.Not Important"
+                    ]
+                },
+                {
+                    "question_id": 47,
+                    "response": [
+                        "3-- Somewhat important",
+                        "4 - Important",
+                        "5- Very important",
+                        "What type of programs would you be interested in?:",
+                        "(Check all that apply)",
+                        "Ef Reading and Writing",
+                        "EY Math\u2019",
+                        "\u2018Er Tob.skills",
+                        "Lite Skills (for example: money management...)",
+                        "D Finishing High School,",
+                        "ert Using Computers and Technology",
+                        "ET Money Management",
+                        "(0 Law Research",
+                        "Community College / Higher Education",
+                        "E\u00a5 Continue College Credits (for example: STLCC)",
+                        "ET digitai Library books",
+                        "( Other:",
+                        "("
+                    ]
+                },
+                {
+                    "question_id": 48,
+                    "response": [
+                        "TO Re JeThL B tkghee ying Lie SUS",
+                        "\u2018How comfortable are you using computers or",
+                        "other technology? (Select one)",
+                        "4 - Not Comfortable",
+                        ":2- Slightly Comfortable",
+                        ":3 - Somewhat Comfortable"
+                    ]
+                },
+                {
+                    "question_id": 49,
+                    "response": [
+                        "5-Very Comfortable",
+                        "If educational programs were offered, how likely",
+                        "\u2018would you be to participate? (Select one)",
+                        "41.- Not Likely",
+                        "2 - Slightly Likely",
+                        "3 - Somewhat Likely",
+                        "4 - Likely",
+                        "5=Very Likely_",
+                        "What is your experience with online learning or",
+                        "digital classes? (Select one)",
+                        "(1 No experience",
+                        "RQ Some experience",
+                        "O Comfortable with online learning",
+                        "0 Experienced with online learning",
+                        "Is there anything else you'd like to tell us about your"
+                    ]
+                },
+                {
+                    "question_id": 50,
+                    "response": [
+                        "Are there other resources you wish were available to you:"
+                    ]
+                },
+                {
+                    "question_id": 51,
+                    "response": [
+                        "What is your education level? (optional)",
+                        "(1 No formal education",
+                        "O Some high school (Grades 9-11)",
+                        "D High schoo! diploma or GED",
+                        "7 Some college, no degree",
+                        "O Associate's degree",
+                        "D Bachelor\u2019s degree",
+                        "1 Some graduate school, no degree",
+                        "1 Master's degree or higher",
+                        "What is your age? (optional)",
+                        "017-24 C1 55-64",
+                        "C) 25-34 O 65-74",
+                        "35-44 0 75-84",
+                        "45-54 0 85 and over",
+                        "\u2018Thank you for completing this survey. Your feedback is valuable and will help the City of St. Louis - Division of Corrections better",
+                        "understand educational and reentry resource needs. We appreciate your honesty and responses.,",
+                        "CJC Resident Survey: Education and Reentry Resources",
+                        "Instructions: Please circle the answer that best fits. You may use the back of this sheet to answer the open-ended questions,",
+                        "How interested are you in taking educational",
+                        "classes while you are here? (Select one) fe ys",
+                        "4 - Not Interested \u2018 aeh",
+                        "2'- Slightly Interested ; | j | ,",
+                        "'3 ~ Somewhat Interested",
+                        "A- Interested",
+                        "\u2018How important i is it to you to have access to",
+                        "\u2018classes and programs here? (Select one)"
+                    ]
+                },
+                {
+                    "question_id": 52,
+                    "response": [
+                        "\u20182. Stightly Important",
+                        "\u20183 - Somewhat important",
+                        "ye cherie |"
+                    ]
+                },
+                {
+                    "question_id": 53,
+                    "response": [
+                        "Please explain why:;",
+                        "How comfortSble are you using computers or",
+                        "other technology? (Select one)",
+                        "1'- Not Comfortable",
+                        "2 - Slightly Comfortable",
+                        "13 - Somewhat Comfortable F",
+                        "4-Comfortable x.",
+                        ". _\u2014s on hy",
+                        "@ - Very Comfortable -",
+                        "Tam eves 4 At ome",
+                        "If educational programs were offered, how likely",
+                        "would you be to participate? (Select one)",
+                        "1- Not Likely :",
+                        "2 - Slightly Likely",
+                        "3 - Somewhat Likely:",
+                        "4- - Likely ay",
+                        "25s > Very Likely",
+                        "a :",
+                        "What is your experience with online learning or",
+                        "digital classes? (Select one)",
+                        "0 Noexperience",
+                        "oO Some experience =,",
+                        "SF, met dee had ~ 4",
+                        "eg Comfortabie with oniine learning .",
+                        "(C1 \u201cExp\u00e9rienced with online learning"
+                    ]
+                },
+                {
+                    "question_id": 54,
+                    "response": [
+                        "(Check al all that apply)",
+                        "a oyee EL eeeacing and Writing \u2018",
+                        "a 4",
+                        "Job. Skills, _- Bae Se eee soe cans te",
+                        ". ; \u201cHh \u2018Life S Skills (for example: money management. yy",
+                        "t A \u201coO Fi Shing High Schoo",
+                        "EJ\u2019 \u2018Using Computers and Technology *",
+                        ". [Money Management",
+                        "\u00a9 Law Research",
+                        "O Community College / Higher Education",
+                        "| 0) Continue College Credits (for example: STLCC)",
+                        "J Digital Library books",
+                        "O Other:"
+                    ]
+                },
+                {
+                    "question_id": 55,
+                    "response": [
+                        "COO Ele",
+                        "is there anything else you\u2019d like to tell us about your",
+                        "Are there other resources you wish were availabie. to you",
+                        "while here?.",
+                        "os",
+                        "| nati is your \u2018education level? (optional) k",
+                        "(_No formal education",
+                        "Some high school (Grades 9-11)",
+                        "D High schoo! diploma or GED",
+                        "ia) Some college, no degree.",
+                        "C1 Associate's degree",
+                        "O Bachelor's degree",
+                        "C1 \u2018Some graduate school, no degree\u2019",
+                        "0. Master's degree or higher",
+                        "What is your age? (optional)",
+                        "\u2018(O 17-24 0) 55-64",
+                        "CO 25-34 O 65-74",
+                        "(2\u00b0 35-44 0 75-84",
+                        "O00 45-54 0) 85 and over:",
+                        "Thank you for completing this survey. Youir feedback is valuable and will help the City of St. Louis-- Division of Corrections better",
+                        "understand educational and reentry resource needs. We appreciate your honesty and responses:",
+                        "Sosepr \u2014 HIDLB FO",
+                        "Laicenace",
+                        "CJC Resident Survey: Education and Reentry Resources",
+                        "Instructions: Please circle the answer that best fits, You may use the back of this sheet to answer the: open-ended questions:",
+                        "\u2018How interested are you in taking educational",
+                        "classes while you are here? (Select one)",
+                        "1+ Not Interested",
+                        "\u20182+ Slightly interested.",
+                        ":3-\u00ab Somewhat Interested.",
+                        "4~ Interested",
+                        "(Eyvery interested",
+                        "How important is it to you to have access to",
+                        "classes and programs here? (Select one)",
+                        "1 - Not Important",
+                        "'2.~ Slightly Important",
+                        "3 - Somewhat Important",
+                        "4 - Important",
+                        "Very Important,",
+                        "Please explain why*'"
+                    ]
+                },
+                {
+                    "question_id": 56,
+                    "response": [
+                        "(Check all that apply)",
+                        "Reading and Writing",
+                        "Math",
+                        "EH Job Skills",
+                        "Wife Skills (for example: money management...)",
+                        "D Finishing High Schoot",
+                        "mM Using Computers and Technology",
+                        "loney Management",
+                        "hon Research:",
+                        "ivi ommunity College / Higher Education",
+                        "contre College Credits (for example: STLCC)",
+                        "D Digital Library books\u2019"
+                    ]
+                },
+                {
+                    "question_id": 57,
+                    "response": [
+                        "Tm. vecy ORR to encant) ad But neg ranaserest/ seepydbing",
+                        "and ehoal \\\u00a2 very +ogo",
+                        "How comfortable are you tein. computers or",
+                        "-other technology? (Select one)",
+                        "1 + Not Comfortable",
+                        ":2.- Slightly Comfortable",
+                        "-3 - Somewhat Comfortable",
+                        "\u20184 - Comfortable",
+                        "(Fyery Comfortable",
+                        "If educational programs were offered, how likely",
+                        "\u2018would you be to participate? (Select one)"
+                    ]
+                },
+                {
+                    "question_id": 58,
+                    "response": [
+                        "3 - Somewhat Likely",
+                        "4 - Likely",
+                        "& Very Likely",
+                        "\u2018What is your experience with online learning or",
+                        "digital classes? (Select one)",
+                        "O No experience",
+                        "O Some experience",
+                        "0 Comfortable with ontine learning",
+                        "Experienced with online learning",
+                        "1s there anything else you'd like to tell us about your"
+                    ]
+                },
+                {
+                    "question_id": 59,
+                    "response": [
+                        "Are there other resources you wish were available to you.",
+                        "while here? Rereakio Be \u00a3 ball,",
+                        "Yer Nord",
+                        "What is your education level? (optional)",
+                        "C1 No formal education.",
+                        "A Some high school (Grades 9-11)",
+                        "(1 High school diploma or GED",
+                        "mf Some college, no degree 5G. Cres ts tun (a3.",
+                        "\u20181D Associate\u2019s degree \u00ae rueho CS",
+                        "D Bachelor's degree",
+                        "Oo Some graduate school, no degree",
+                        "O Master's degree or higher",
+                        "x",
+                        "What is your age? (optional)",
+                        "O 17-24 0 55-64.",
+                        "(25-34 0 65-74",
+                        "35-44 OD 75-84",
+                        "() 45-54 OO 85 and over:",
+                        "Thank you for completing this survey. Your feedback is valuable and will help the City of St. Louis.- Division of Corrections better",
+                        "-understand educational and reentry resource needs.. We appreciate your honesty and responses.,",
+                        "CJC Resident Survey: Education and Reentry Resources",
+                        "Instructions: Please circle the answer that best fits.. You may use the back of this sheet to answer the open-ended questions.",
+                        "How interested are you in taking educational,",
+                        "classes while you are here? (Select one)",
+                        "41 + Not Interested",
+                        "2 - Slightly Interested",
+                        "3 - Somewhat Interested",
+                        "4 = Interested",
+                        "& Very Interested",
+                        "How important is it to you to have access to",
+                        "classes and programs here? (Select one)",
+                        "1 - Not Important",
+                        "2 ~ Slightly. Important",
+                        "3 - Somewhat Important,",
+                        "4 - Important",
+                        "\u00a9. Very Important",
+                        "Please explain at",
+                        "Help me better ay Ihwowledge",
+                        "Ava get",
+                        "How comfortable are you using computers or",
+                        "other technology? (Select one)",
+                        "4 - Not Comfortable"
+                    ]
+                },
+                {
+                    "question_id": 60,
+                    "response": [
+                        "\u20183 - Somewhat Comfortable ~",
+                        "4- Comfortable",
+                        "@>very Comfortable,",
+                        "If educational programs were offered, how likely",
+                        "\u2018would you be to participate? (Select one)",
+                        "1+ Not Likely",
+                        "\u20182 ~ Slightly Likely",
+                        ". 3 Somewhat Likely",
+                        "4- Likely",
+                        "Very Likely",
+                        "What is your experience with online learning or",
+                        "digital classes? (Select one)",
+                        "C1 No experience",
+                        "O Some experience:",
+                        "(0 Comfortable with online learning",
+                        "a Experienced with online learning",
+                        "Thank you for completing this survey: Your feedback is valuable and will help the City of St: Louis - Division of Corrections better\u2019",
+                        "& Yo huowi.vg KY Surround 4"
+                    ]
+                },
+                {
+                    "question_id": 61,
+                    "response": [
+                        "(Check all that apply)",
+                        "[7 Reading and Writing",
+                        "O Math ,",
+                        "ET Job Skills",
+                        "C1 Life Skills (for example: money management..;.)",
+                        "0) Finishing High School",
+                        "ZI Using Computers and Technology",
+                        "C1 Money Management:",
+                        "OG Law Research",
+                        "OJ Community College /. Higher Education,",
+                        "ZZ Continue College Credits (for example: STLCC)",
+                        "C0 Digital Library books",
+                        "1 Other:",
+                        "4",
+                        "What do ah hope i learn lee ucational rp \u20ac\u00e9",
+                        "shy bwlenge ead aud Ma |",
+                        "\u00bb Deer deca",
+                        "Is there anything else arsine ne to tell us free your"
+                    ]
+                },
+                {
+                    "question_id": 62,
+                    "response": [
+                        "while nay More. Show 7 viet",
+                        "my Fomas\\iy awd wal ewe",
+                        "What is your education level? (optional)",
+                        "1 No formal education",
+                        "OD Some high school (Grades 9-11)",
+                        "fA High school diploma or GED",
+                        ": ai Some college, no degree",
+                        "CO Associate's degree\u2019",
+                        "2 Bachelor's degree",
+                        "(0 Some graduate school, no degree",
+                        "DD Master's degree or higher",
+                        "What is your age? (optional)",
+                        "D0 17-24 O 55-64.",
+                        "25-34 D 65-74.",
+                        "O 35-44 DO 75-84",
+                        "OO 45-54 0 85 and over",
+                        "\u2018understand educational and reentry resource needs.. We appreciate your honesty and responses:",
+                        "Te lia",
+                        "Are there other resources you wish were available to you",
+                        "eG weel4",
+                        "CJC Resident Survey: Education and Reentry Resources:",
+                        "Instriictions: Please circle the answer that best fits. You may use the back of this sheet to answer the open-ended questions.",
+                        "How interested are you in taking educational",
+                        "\u2018classes while you are here? (Select one)",
+                        "4 = Not Interested",
+                        "'2\u00bb Slightly Interested",
+                        "'3.- Somewhat Interested",
+                        "& Interested",
+                        "5 Very Interested,",
+                        "How important is it to you to have access to",
+                        "\u2018classes and programs here? (Select one)"
+                    ]
+                },
+                {
+                    "question_id": 63,
+                    "response": [
+                        "2 - Slightly Important",
+                        "'3.- Somewhat Important",
+                        "\u20184 - Important",
+                        "& Very Important",
+                        "Please.explain why: keeps yt boS4",
+                        "And Revks.on Sowecvingy",
+                        "How comfortable are you using computers or",
+                        "other technology? (Select one)"
+                    ]
+                },
+                {
+                    "question_id": 64,
+                    "response": [
+                        "2 - Slightly Comfortable",
+                        "3 - Somewhat Comfortable",
+                        "4 - Comfortable",
+                        "6} Very Comfortable",
+                        "If educational programs were offered, how likely",
+                        "would you be to participate? (Select one)",
+                        "\u20181 - Not Likely",
+                        "2 - Slightly Likely\u2019",
+                        "'3.- Somewhat Likely\u2019",
+                        "@ Likely:",
+                        "5'- Very Likely",
+                        "What is your experience with online learning or",
+                        "digital classes? (Select one)",
+                        "(C1. No experience",
+                        "(0 Some experience",
+                        "CJ Comfortable with online learning",
+                        "_ Experienced with online learning"
+                    ]
+                },
+                {
+                    "question_id": 65,
+                    "response": [
+                        "(Check all that apply)",
+                        "CB peadra and Writing",
+                        "Con: Skills",
+                        "GH Life Skills (for example: money management...)",
+                        "0) Finishing High Schoo!",
+                        "wy Using Computers and Technology",
+                        "loney Management",
+                        "tan Research",
+                        "y Community College / Higher Education",
+                        "DO Continue College Credits (for example: STLCC)",
+                        "oa cia Library books.",
+                        "\u00a9 Other:"
+                    ]
+                },
+                {
+                    "question_id": 66,
+                    "response": [
+                        "knowledge 35 pawl bet Tim aT Supt. 5 Yost",
+                        "hope, Wrote ute T Wallin TH LAS WO Samtiahet\u2019y",
+                        "Is there anything else you'd like to le us about your:",
+                        "education needs or Interests? -\u00ab \u00a2, os alvin iS",
+                        "0 5@| Por wh borT ~ ae Clog dnuemt ite.",
+                        "One rong ates Dov :",
+                        "Are there other resources you i vish were available to you",
+                        "while here? Q_ Liloraxt| oockS tr beep we",
+                        "Loco on, Sowtteondy EF Tare",
+                        "What is your education level? (optional)",
+                        "0 No formal education",
+                        "1 Some high school (Grades 9-11)",
+                        "High school diploma or GED",
+                        "CO Some college, no degree",
+                        "(2 Associate's degree",
+                        "G1 Bachelor's degree",
+                        "(0 Some graduate school, no degree",
+                        "(1 Master's degree or higher",
+                        "What is your age? (optional)",
+                        "17-24 1 55-64",
+                        "OO 25-34 O 65-74",
+                        "0 35-44 0 75-84",
+                        "O 45-54 \u2018O85 and over:",
+                        "Thank you for completing this survey. Your feedback is valuable and will help the City of St. Louis - Division of Corrections better\u2019",
+                        "understand educational and reentry resource needs. We appreciate your honesty and responses."
+                    ]
+                }
+            ]
+        },
+        {
+            "survey_type": "Resident",
+            "survey_id": "resident2.pdf",
+            "responses": [
+                {
+                    "question_id": 1,
+                    "response": [
+                        "How domfonatie are you using computers or",
+                        "other technology? (Select one)",
+                        "41 ~ Not Comfortable",
+                        "\u00ab Slightly Comfortable",
+                        "} Somewhat Comfortable",
+                        "4 - Comfortable",
+                        "\u00a7 - Very Comfortable",
+                        "If educational programs were offered, how likely",
+                        "would you be to particlpate? (Select one)",
+                        "1 - Not Likely",
+                        "2 - Slightly Likely",
+                        "3 - Somewhat Likely",
+                        "4 - Likely",
+                        "5 ) Very Likely",
+                        "What is your experience with online learning or",
+                        "digital classes? (Select one)",
+                        "(0) No experience",
+                        "fy sone experience",
+                        "Comfortable with online learning",
+                        "(] Experienced with online learning",
+                        "Thank you for completing this survey. Your feedback is valuable and will help the City of Si. Louis - Division of Corrections better"
+                    ]
+                },
+                {
+                    "question_id": 2,
+                    "response": [
+                        "(Check all that apply)",
+                        "es Reading and Writing",
+                        "(df Math",
+                        "{Job Skills",
+                        "x Life Skills (for example: money management...)",
+                        "Finishing High School",
+                        "Using Computers and Technology",
+                        "Money Management",
+                        "Law Research",
+                        "4 Community College / Higher Education",
+                        "(a Continue College Credits (forexample: STLCC)",
+                        "821 Digital Library books",
+                        "() Other:"
+                    ]
+                },
+                {
+                    "question_id": 3,
+                    "response": [
+                        "Wicat Co",
+                        "{s there anything else you'd like to tell us about your"
+                    ]
+                },
+                {
+                    "question_id": 4,
+                    "response": [
+                        "Vo",
+                        "Are there other resources you wish were avallable to you"
+                    ]
+                },
+                {
+                    "question_id": 5,
+                    "response": [
+                        "What Is your education level? (optional)",
+                        "() No formal education",
+                        "(J Some high school (Grades 9-11)",
+                        "() High school diploma or GED",
+                        "Some college, no degree",
+                        "(J Associate's degree",
+                        "{] Bachelor's degree",
+                        "[7] Some graduate school, no degree",
+                        "(] Master's degree or higher",
+                        "What is your age? (optional)",
+                        "CO 17-24 (C] 55-64",
+                        "fg 25-34 (0 65-74",
+                        "35-44 () 75-84",
+                        "C) 45-54 (0 85 and over",
+                        "understand educational and reentry resource needs. We appreciate your honesty and responses."
+                    ]
+                }
+            ]
+        }
+    ],
+    "Stakeholder": [
+        {
+            "survey_type": "Stakeholder",
+            "survey_id": "stakeholder1.pdf",
+            "responses": [
+                {
+                    "question_id": 1,
+                    "response": [
+                        "(Check all that apply):",
+                        "& Reading and Writing \u2018bl Money Management",
+                        "FA Math : Law Research",
+                        "4] Job Skills Community College./ Higher Education",
+                        "; X Life Skills (for example: money\" Continue College Credits (for example:",
+                        "management...) . _STLCC)",
+                        ". Finishing High School Digital Library books",
+                        "ba Using Computers and Technology LJ Other:",
+                        "What challenges do you see in implementing educational programs for residents? (Check all that apply)",
+                        "Limited staff resources",
+                        "O) Technology access or support",
+                        "CO) Limited resident interest",
+                        "0 Security or operational restrictions",
+                        "(1 Other:"
+                    ]
+                },
+                {
+                    "question_id": 2,
+                    "response": [
+                        "N/A"
+                    ]
+                },
+                {
+                    "question_id": 3,
+                    "response": [
+                        "What is your role at CJC? (optional)",
+                        "C Unit Manager",
+                        "EX CJC Officer",
+                        "O Case Worker",
+                        "0 cic Leadership",
+                        "(1 CJC Stakeholder or Volunteer\u2019",
+                        "Years of Experience in Corrections or at CJC? (optional)",
+                        "1 04 Years 1 15-19 Years",
+                        "BE 5-9 Years. O 20-24 Years",
+                        "OO 10-14 Years O 25+'Years",
+                        "Thank you for completing this survey. Your feedback is valuable and will help the City of St, Louis - Division of",
+                        "Corrections better understand educational and reentry resource. needs. We appreciate your honesty and responses:",
+                        "CJC. Stakeholder Survey: Education and Reentry Resources",
+                        "Instructions: Please circle the answer thai best fits;",
+                        "How interested are you in supporting educational programs for residents? (Sel\u00e9ct one)",
+                        "CT Hot Interested",
+                        "2 + Slightly Interested",
+                        "3 - Somewhat Interested",
+                        "4 - Interested",
+                        "5 - Very Interested",
+                        "How important is it to provide residents with access to education and reentry programs? (Select one)",
+                        "ot Important",
+                        "* 2- Slightly important",
+                        "3 ~ Somewhat Important",
+                        "4 - Important",
+                        "5 -Very important",
+                        "\u2018Please explain why;",
+                        "\u2018How comfortable are you using computers or other technology in your work? (Select one)",
+                        "lot Comfortable \u2018",
+                        "'2.- Slightly Comfortable",
+                        "3 .- Somewhat Comfortable",
+                        "4 - Comfortable",
+                        "5 - Very Comfortable",
+                        "If new educational programs were offered for residents, how likely are you to support or engage",
+                        "with them? (Select one)",
+                        ": lot Likely",
+                        "2 - Slightly Likely",
+                        "3 - Somewhat Likely",
+                        "4+ Likely",
+                        "5 - Very Likely",
+                        "What is your experience with online learning or digital platforms? (Select one)",
+                        "(No experience",
+                        "C1 Some experience",
+                        "y Comfortable with online learning",
+                        "Experienced with online learning",
+                        "(OVER)",
+                        "Thank you for completing this survey: Your feedback is valuable and will help the City of St Louis'- Division of",
+                        "Corrections better understand educational and reentry resource needs. We appreciate your honesty and responses,",
+                        "CJC Stakeholder Survey: Education and Reentry Resources",
+                        "Instructions: Please circle the answer that b\u00e9st fits."
+                    ]
+                },
+                {
+                    "question_id": 4,
+                    "response": [
+                        "(Check ail that apply)",
+                        "\u00a9) Reading and Writing CO Money Management",
+                        "OC Math O Law Research",
+                        "Osos Skills oO Community College / Higher Education",
+                        "D) Life\u2019 Skills (for example money C1 Continue College Credits (for example:",
+                        "anagement...) STLCC)",
+                        "ot Feising High School O) Digital Library books"
+                    ]
+                },
+                {
+                    "question_id": 5,
+                    "response": [
+                        "What c",
+                        "allenges do you see in implementing educational programs for residents? (Check all that apply)",
+                        "WZ] Limited staff resources",
+                        "Technology access or support",
+                        "CO Limited resident interest",
+                        "D Security or operational restrictions",
+                        "O othe: Limited stage"
+                    ]
+                },
+                {
+                    "question_id": 6,
+                    "response": [
+                        "Sources +o ave and be employable"
+                    ]
+                },
+                {
+                    "question_id": 7,
+                    "response": [
+                        ": Unit Manager",
+                        "CJC Officer",
+                        "O Case Worker\u2019",
+                        "[1] CJC Leadership",
+                        "() CJc Stakeholder or Volunteer",
+                        "\"\u00a2 your role at CJC? (optional) .",
+                        "Years of Experience in Corrections or at CJC? (optional)",
+                        "(10-4 Years 0 15-19 Years",
+                        "5-9 Years. 0) 20-24 Years",
+                        "40-14 Years OU 25+ Years",
+                        "Thank you for completing this survey; Your feedback is valuable and will help the City of St. Louis'- Division of",
+                        "Corrections better understand educational and reentry resource needs. We appreciate your honesty and responses:-",
+                        "CJC. Stakeholder Survey: Education and Reentry Resources",
+                        "Jnstructions: Pleas\u00e9 circle the answer that best fits,",
+                        "What type of educational programs do you believe would benefit residents most?.",
+                        "(Check. all that apply)",
+                        "ind] Reading and Writing | Money Management",
+                        "M Math Law Res\u00e9arch",
+                        "ani 1 Community College 7 Higher Eduication",
+                        "(1 Liteskilis (for example: money \u2122 Continue College Credits (for example:",
+                        "management...) _STLCC).",
+                        "\u00a9 Finishing High School Pi Digital Library books",
+                        "Wf Using Computers and Technology\u2019 O Other:",
+                        "\u2018What challenges do you see in implementing educational programs for residents? (Check all that apply)",
+                        "* M Limited staff resources",
+                        "QO Technology access or support",
+                        "Limited resident interest",
+                        "WY Security or operational restrictions",
+                        "O Other:"
+                    ]
+                },
+                {
+                    "question_id": 8,
+                    "response": [
+                        "FO WM. Hh Iolat\u00ae = fom a Mlb"
+                    ]
+                },
+                {
+                    "question_id": 9,
+                    "response": [
+                        "Si ads (Me wl the ge.",
+                        "What is your role at CJC? (optional)",
+                        "Unit Manager i",
+                        "MY CJC Officer",
+                        "CO) Case Worker",
+                        "() CJC Leadership",
+                        "(1 CJC Stakeholder or Volunteer",
+                        "i",
+                        "\u2018Years of Experience in Corrections or at CJC? (optional)",
+                        ":0-4. Years (CD 15-19 Years",
+                        "(0 5-9 Years O 20-24 Years\u2019",
+                        "\u2018C0 10-14 Years OU) 25+ Years",
+                        "Thank you for completing this survey. Your feedback is Valuable and will help the City of St. Louis = Division of '",
+                        "Corrections better understand educational and reentry resource needs. We appreciate your honesty and r\u00e9sponses..",
+                        "CJC Stakeholder Survey: Education and Reeniry Resources",
+                        "Instructions: Please circle the answer that best fits."
+                    ]
+                },
+                {
+                    "question_id": 10,
+                    "response": [
+                        "(Check all that apply) :",
+                        "BQ Reading and Writing Gn loney Management",
+                        "Math Law Research",
+                        "lob Skills earn College / Higher Education",
+                        "Hife Skills (for example: money\u2019 O1 Continue College Credits (for example:",
+                        "management...) STLCC)",
+                        "@shiching High School Q Digital Library books",
+                        "(J Using Computers and Technology O Other:",
+                        "What challenges do you see in implementing educational programs for residents? (Check all that apply)",
+                        "imited staff resources ,",
+                        "C1] \u2018Technology access or support",
+                        "\u2018(3 Limited resident interest",
+                        "CO \u2018Security or operational restrictions",
+                        "CO Other:",
+                        "\u201cTAH Thar? 173 HW SEe\" ps HOt aE fet, \u00a5\u00a2",
+                        "Windia)"
+                    ]
+                },
+                {
+                    "question_id": 11,
+                    "response": [
+                        "NO \u00b0",
+                        "What is your role at CJC? (optional)",
+                        "\u20182 Unit Manager",
+                        "\u2018O GUC Officer",
+                        "() Case Worker",
+                        "JC Leadership .",
+                        "1) CJC Stakeholder or Volunteer:",
+                        "\u2018What do you hope residents will gain from educational programs? fv lo th ETI PE.",
+                        "Years of Experience in Corrections or at CJC? (optional)",
+                        "0D 0-4 Years (1 15-19 Years",
+                        "C 5-9 Years DO) 20-24 Years",
+                        "() 10-14 Years (Cp25+ Years",
+                        "\u2018Thank you for completing this survey. \u2018Your feedback is valuable and will help the City of St. Louis - Division of",
+                        "Corrections better understand educational and reentry resource needs, We appreciate your honesty and responses.",
+                        "CJC Stakeholder Survey: Education and Reentry Resources",
+                        "Instructions: Please circle the answer that best fits.",
+                        "How interested are you in supporting educational programs for residents? (Select one)",
+                        "1~Not Interested",
+                        "'2 + Slightly Interested",
+                        "\u20183:- Somewhat Interested",
+                        "terested",
+                        "How important is it to provide residents with access to education and reentry programs? (Select one)",
+                        "1,-Not Important",
+                        "2 - Slightly Important",
+                        "3 - Somewhat Important",
+                        "-4 - important",
+                        "5 - Very Important ~y",
+                        "Please explain why::",
+                        "How comfortable are you using computers or other technology in your work? (Select one)"
+                    ]
+                },
+                {
+                    "question_id": 12,
+                    "response": [
+                        "2 - Slightly Comfortable",
+                        "3 - Somewhat Comfortabie",
+                        "4 \u00abComfortable",
+                        "~ \u00a7eWery-Comfortable",
+                        "lf new educationa! programs were offered for residents, how likely are you to support or engage",
+                        "with them? (Select one) *",
+                        "1 - Not Likely",
+                        "2 - Slightly Likely",
+                        "3 - Somewhat Likely",
+                        "Cateye > = Likely >",
+                        "What is your experience with online learning or digital platforms? (Select one)",
+                        "UO No experience.",
+                        "O Some experience",
+                        "Comfortable-with-online learning",
+                        "Experienced with online learning",
+                        "(OVER)",
+                        "__ Thank you for completing this survey. Your feedback is valuable and will help the City of St. Louis = Division of",
+                        "Corrections better understand educational and reentry resource needs. We appreciate your honesty and responses.",
+                        "CJC. Stakeholder Survey: Education and Reentry Resources",
+                        "; Instructions: Please circle the answer that best fits."
+                    ]
+                },
+                {
+                    "question_id": 13,
+                    "response": [
+                        "(Check all that apply)",
+                        ". ;",
+                        "Reading and Writing % Money Management,",
+                        "\u2018Math ra Law Research",
+                        "Job Skills Community College / Higher Education",
+                        "Life Skills (for example: money Ghcons College Credits (for exarfipte:",
+                        "management..:) STLCC)",
+                        "Be Finishing High Schoo! Y Digital Library books",
+                        "Using Computers and Technology CY Other:",
+                        "What challenges do you see in implementing educational programs for residents? (Check all that apply)",
+                        "'O Limited staff resources",
+                        "Oo Technology access or support",
+                        "CO Limited resident interest.",
+                        "& Security or operational restrictions",
+                        "WALother:"
+                    ]
+                },
+                {
+                    "question_id": 14,
+                    "response": [
+                        "Bebter Feelly 9 about Wemselve"
+                    ]
+                },
+                {
+                    "question_id": 15,
+                    "response": [
+                        "What is your role at CJC? (optional)",
+                        "0) Unit Manager",
+                        "QS cle officer",
+                        "(1) Case Worker",
+                        "O) CJC Leadership.",
+                        "C) CJC Stakeholder or Volunteer",
+                        "Years of Experience in Corrections or at CJC? (optional)",
+                        "DC 0-4 Years 15-19 Years",
+                        "O1 5-9 Years\u2019 0 20-24 Years",
+                        "O 10-14 Years O 25+ Years",
+                        "Thank you for completing this survey. Your feedback is valuable and will help the City of St. Louis - Division of",
+                        "Corrections better understand educational and reentry resource needs: We appreciate your honesty and responses.",
+                        "CJC Stakeholder Survey: Education and Reentry Resources:",
+                        "a instructions: Please circle the answer that best fits."
+                    ]
+                },
+                {
+                    "question_id": 16,
+                    "response": [
+                        "eck all that apply)",
+                        "Soe and Writing Money Management",
+                        "Shen : Law Research",
+                        ". SS ob \u2018Sills community College / Higher Education,"
+                    ]
+                },
+                {
+                    "question_id": 17,
+                    "response": [
+                        "TLOC)",
+                        ". management:..)",
+                        "\u201cLint High Schoo! . Digital Library books\u2019",
+                        "\u2018st sing Computers and Technology Ng Other:",
+                        "What challenges do you see in implementing educational programs for residents? (Check all that apply)",
+                        "O Limited staff resources , ,",
+                        "(3 Technology access or support",
+                        "\u00abC) Limited resident interest",
+                        "SS. sen or operational restrictions",
+                        "ther:"
+                    ]
+                },
+                {
+                    "question_id": 18,
+                    "response": [
+                        "* 4",
+                        "=~ Fpu COP ION",
+                        "~ResgekQoetencot&",
+                        "-Are there any other education or reentry resources you feel would be valuable to residents?,",
+                        "FS Pn",
+                        "8"
+                    ]
+                },
+                {
+                    "question_id": 19,
+                    "response": [
+                        "What is your role at CJC? (optional)",
+                        "C1 Unit Manager",
+                        "0 CJC Officer\u2019",
+                        "CJ. Case Worker",
+                        "CJC Leadership",
+                        "0 CJC Stakeholder or Volunteer",
+                        "Years of Experience in Corrections or at CJC? (optional)",
+                        "O 0-4 Years J 15-19 Years",
+                        "C1 5-9 Years Drsage eas",
+                        "OO 0-14 Years O 25+ Years",
+                        "fa",
+                        "Thank you for completing this survey. Your feedback is valuable and will help the City of St. Louis = Division of",
+                        "Corrections better understand educational and reentry resource needs. We \u2018appreciate your honesty and responses.",
+                        "CJC Stakeholder Survey: Education and Reentry Resources",
+                        "Instructions: Please circle the answer that best fits."
+                    ]
+                },
+                {
+                    "question_id": 20,
+                    "response": [
+                        "eck all that apply)",
+                        "Reading and Writing",
+                        "loney Management.",
+                        "Math . aw Research",
+                        "Job Skills rR Community College / Higher Education",
+                        "ife Skills (for example: money\u2019 x ontinue College Credits (for example:",
+                        "janagement...) STLCC)",
+                        "Finishing High School Digital Library books",
+                        "sing Computers and. Technology Other;",
+                        "What challenges do you see in implementing educational programs for residents? (Check all that apply)",
+                        "D Limited staff resotirces",
+                        "(J Technology access or support",
+                        "\u00a9 Limited resident interest",
+                        "O Security or op et Cons. restrictions",
+                        "Other: Sha Con straints"
+                    ]
+                },
+                {
+                    "question_id": 21,
+                    "response": [
+                        "Something beHerin |e is ost there"
+                    ]
+                },
+                {
+                    "question_id": 22,
+                    "response": [
+                        "What is your role at CJC? (optional)",
+                        "\u00ab OF Unit Manager",
+                        "CJC Officer",
+                        "~ 0. Case Worker",
+                        "1 CIC Leadership",
+                        "OQ) CJC Stakeholder or Volunteer",
+                        "Years of Experience in Corrections or at CJC? (optional)",
+                        "(1-4 Years J 15-19 Years",
+                        "5-9 Years O 20-24 Years",
+                        "(0-14 Years CO) 25+-Years",
+                        "\u2018Thank you for completing this survey., Your feedback is valuable and will help the City of St. Louis - Division of",
+                        "Corrections better understand educational and reentry resource needs, We appreciate your honesty and responses:",
+                        "CJC Stakeholder Survey: Education and Reentry Resources",
+                        "Instructions: Please circle the answer that best fits."
+                    ]
+                },
+                {
+                    "question_id": 23,
+                    "response": [
+                        "(Check all that apply)",
+                        "\u201cGL Reading and Writing \u201cN&LMoney Management",
+                        "\u201cEE Math \u201cTEALaw Research",
+                        "Be vob Skills\u2019 \u201cSt Community College / Higher Education\u2019",
+                        "\u201cSS Life Skills (for example: money \u2018ontinue College Credits (for example:",
+                        "management...) STLCC)",
+                        "\u201cDt Finishing High School \"8 Digital Litrary books:",
+                        "\u2018\u201cE Using Computers and Technology Ss) Other:",
+                        "What challenges do you see in implementing educational programs for residents? (Check all that apply)",
+                        "\u00a9 Limited staff resources\u2019 ,",
+                        "Technology access or support",
+                        "~. O Limited resident interest",
+                        "(3 Security or operational restrictions",
+                        "(J Other:"
+                    ]
+                },
+                {
+                    "question_id": 24,
+                    "response": [
+                        "To hop oy able themselves",
+                        "Covet WVcwtee Stop themb tom",
+                        "Are there any other education or reentry resources you feel would be valuable to residents? (< Wels"
+                    ]
+                },
+                {
+                    "question_id": 25,
+                    "response": [
+                        "What is your role at CJC? (optional)",
+                        "1 Unit Manager\u2019",
+                        "\u201cEE CJC Officer",
+                        "0 Case Worker",
+                        "(1 CJC Leadership",
+                        "1 Clc Stakeholder or Volunteer",
+                        "Years of Experience in Corrections or at CJC? (optional)",
+                        "\u201c&k.0-4 Years 1 15-19 Years",
+                        "0 5-9 Years 0 20-24 Years",
+                        "O 10-14 Years 0 25+ Years",
+                        "Thank you for completing this survey. Your feedback is valuable and will help the City of St. Loufs - Division of",
+                        "Corrections better understand educational and reentry resource needs. We appreciate your honesty and responses.",
+                        "CJC Stakeholder Survey: Education and Reentry Resources",
+                        "Instructions: Please circle the answer that best fits."
+                    ]
+                },
+                {
+                    "question_id": 26,
+                    "response": [
+                        "(Check all that apply)",
+                        "0 Reading and Writing: im] Money Management,",
+                        "0 Math D Law Research",
+                        "os Skills \u00a9) Community College / Higher Education",
+                        "0 Life Skills (for example: money a Continue College Credits (fo example:",
+                        "management...) STLCC)",
+                        "\u00a9 Finishing High School: C Digital Library books",
+                        "Using Computers and Technology oOo Other:",
+                        "What challenges do you see in implementing educational Programs for residents? (Check all that apply)",
+                        "Limited staff resources",
+                        "(] Technology access or support",
+                        "D2. Limited resident interest",
+                        "O \u2018Security or operational restrictions",
+                        "O Other:",
+                        "What do you hope residents will gain from educational programs? Cref- thine eely Med jor] |",
+                        "Are there any other education or reentry resources you feel would be valuable to residents? Aw",
+                        "Is there anything else you'd like to share about your thoughts on educational programming for residents? Wa)",
+                        "What is your role at CJC? (optional)",
+                        "(C0 pnit Manager ,",
+                        "Pec Officer",
+                        "0 Case Worker",
+                        "\u2018O cuc Leadership",
+                        "(D1. CJC Stakeholder or Volunteer",
+                        "Years of Experience in Corrections or at CJC? (optional)",
+                        "OD 0-4 Years O 15-19 Years",
+                        "O 5-9 Years 1 20-24 Years",
+                        "OO 10-14 Years C) 25+ Years",
+                        "Thank you for completing ihis survey. Your feedback is valuable and will help the City of St; Louis = Division of ;",
+                        "Corrections better understand educational and reentry resource ne\u00e9ds., We appreciate. your honesty and respons\u00e9s,",
+                        "CJC Stakeholder Survey: Education and Reentry Resources",
+                        "Instructions: Please circle the answer that best fits."
+                    ]
+                },
+                {
+                    "question_id": 27,
+                    "response": [
+                        "(Check all that apply)",
+                        "(Reading and Writing O Money Management",
+                        "fMath C1 Law Research .",
+                        "[dob Skills oO Community College / Higher Education",
+                        "0 Life Skills (for example: money: OJ Continue College Credits (for example:",
+                        "management...) STLCC) .",
+                        "[et Finishing High School (2-Digital Library books.",
+                        "(J Using Computers and Technology CO Other:",
+                        "What challenges do you see in implementing educational programs for residents? (Check all that apply)",
+                        "[1 Limited staif resources",
+                        "(Technology access or support",
+                        "(Timited resident interest *",
+                        "(Security or operational restrictions ;",
+                        "0 Other: a cee a ee: The,"
+                    ]
+                },
+                {
+                    "question_id": 28,
+                    "response": [
+                        "6"
+                    ]
+                },
+                {
+                    "question_id": 29,
+                    "response": [
+                        "a",
+                        "What is your role at CJC? (optional)",
+                        "() Unit Manager",
+                        "(4 CIC Officer",
+                        "(1 Case Worker",
+                        "1 CJC Leadership",
+                        "C1] CJC Stakeholder or Volunteer",
+                        "Years of Experience in Corrections or at CJC? (optional)",
+                        "UO 0-4 Years CJ 15-19 Years.",
+                        "[5-9 Years C1 20-24 Years",
+                        "OO 10-14 Years (] 25+ Years",
+                        "Thank you for completing this survey. Your feedback is valuable and will help the City of St. Louis ~.Divisiori of",
+                        "Corrections better understand educational and reentry resource needs.. We.appreciate your honesty and responses.",
+                        "CJC Stakeholder Survey: Education and Reentry Resources",
+                        "Instructions: Please circle th\u00e9 answer that best fits.,"
+                    ]
+                },
+                {
+                    "question_id": 30,
+                    "response": [
+                        "(Check all that apply)",
+                        "[Reading and Writing 0 Money Management.",
+                        "Ef Math O Law Research",
+                        "[YX Job Skills O Community College / Higher Education",
+                        "LYTife Skills (for example: money Oo Continue College Credits (for example:",
+                        "management...) STLCC)",
+                        "WFinishing High School 1 Digital Library books",
+                        "(Using Computers and \u2018Technology: C1 Other:",
+                        "What challenges do you see in implementing educational programs for residents? (Check all that apply)",
+                        "Limited staff resources",
+                        "O) Technology access or support",
+                        "[Timited resident interest",
+                        "CD) Security or operational restrictions",
+                        "O Other:"
+                    ]
+                },
+                {
+                    "question_id": 31,
+                    "response": [
+                        "Being able Yo Vive ao Cequler Wes"
+                    ]
+                },
+                {
+                    "question_id": 32,
+                    "response": [
+                        "~A class. about Credig, nok aloe of Deore",
+                        "OS, educohed on Credits"
+                    ]
+                },
+                {
+                    "question_id": 33,
+                    "response": [
+                        "What is your role at CJC? (optional)",
+                        "(1 Unit Manager",
+                        "Cic Officer",
+                        "C) Case Worker",
+                        "1 CNC Leadership",
+                        "C) CJc Stakeholder or Volunteer",
+                        "Years of Experience in Corrections or at CJC? (optional)",
+                        "0-4 Years 0 15-19 Years",
+                        "O 5-9 Years OC 20-24 Years",
+                        "U1 10-14 Years 0 25+ Years",
+                        "Thank you for completing this survey, Your feedback is valuable and will help the City of St, Louis - Division of",
+                        "Corrections better understand edti\u00a2ational and reentry resource needs. We appreciate your honesty and responses,",
+                        "i CJC Stakeholder Survey: Education and Reentry Resources",
+                        "; Instructions: Please circle the answer that best fits:"
+                    ]
+                },
+                {
+                    "question_id": 34,
+                    "response": [
+                        "{Check'all that apply) \u201c",
+                        "() R\u00e9ading and Writing o Money Management",
+                        "OO Math CO Law Researchi ,",
+                        "0 -Job Skills: 1) Commiunity College / Higher Education",
+                        "( Life Skills (for example: money O Continue College Credits (for example",
+                        "management...) STLCC)",
+                        "C Finishing High \u2018School O Digital Library books.",
+                        "1 Using Computers and Technology \u00a9 Other:",
+                        "What challenges do you see in implementing educational programs for residents? (Check all that apply).",
+                        "(1. Limited staff resources",
+                        "C7 Technology\u2019 access or support:",
+                        "() Limited resident interest",
+                        "O Security or operational restrictions",
+                        ": C) Other;"
+                    ]
+                },
+                {
+                    "question_id": 35,
+                    "response": [
+                        "Is there anything else you'd like to share about your thoughts on educational programming for residents? !",
+                        "What is your role at CJC? (optional) |",
+                        "OO unit Manager |",
+                        "0 cic Officer )",
+                        "(1 Case Worker",
+                        "C) CJC L\u00e9adership",
+                        "0) CJC Stakeholder or Volunteer",
+                        "Years of Experience in Corrections or at CJC? (optional)",
+                        "(0-4 Years D) 15-19 Years",
+                        "0 5-9 Years 0 20-24 Years |",
+                        "(J 10-14 Years O 25+ Years . |",
+                        "Thank you for completing this survey. Your feedback is Valuable and will help the Cily of St. Louis - Division of",
+                        "Corrections better understand educational and reeniry resource needs. We appreciate your honesty and responses.",
+                        "CJC Stakeholder Survey: Education and Reentry Resources:",
+                        "Instructions: Please circle the answer that best fits.",
+                        "\u2018How interested are you in supporting educational programs for residents? (Select one)",
+                        "\u201c1-Not Interested: \""
+                    ]
+                },
+                {
+                    "question_id": 36,
+                    "response": [
+                        "3 ~ Samewhat Interested uv",
+                        "4 ~ Interested",
+                        "5'- Very Interested",
+                        "How important is it to provide residents with access to education and reentry programs? (Select one)",
+                        "1 ~ Not Important",
+                        "2 ~ Slightly Important |_--\u2014~",
+                        "3 - Somewhat Important",
+                        "4 - Important",
+                        "5 - Very Important",
+                        "Please explain why:",
+                        "How comfortable are you using computers or other technology in your work? (Select one)",
+                        "41.- Not Comfortable",
+                        ".2 ~ Slightly Comfortable um",
+                        "3 - Somewhat Comfortable",
+                        "4 - Comfortable",
+                        "5 ~ Very Comfortable\u2019",
+                        "\u2018if new educational programs were offered for residents, how likely are you to support or engage",
+                        "with them? (Select one)",
+                        "\u2018{ - Not Likely\u2019"
+                    ]
+                },
+                {
+                    "question_id": 37,
+                    "response": [
+                        "\u20183.- Somewhat Likely",
+                        "4 ~ Likely",
+                        "5 - Very Likely",
+                        "What is-your experience with online learning or digital platforms? (Select one)",
+                        "(Xe experience",
+                        "CO Some experience",
+                        "oO Comfortable with online learning",
+                        "0 Experienced with online learning",
+                        "(OVER)",
+                        "\u2018Thank you for completing this survey. Your feedback is valuable and will help the City of St. Louis - Division\u2019of",
+                        "Corrections better understand educational and reentry resource needs: We appreciate your honesty and responses.",
+                        "CJC Stakeholder Survey: Education and Reentry Resources",
+                        "oo. Instructions: Please circle the answer that best fits.,"
+                    ]
+                },
+                {
+                    "question_id": 38,
+                    "response": [
+                        "(Check all that apply)",
+                        "Reading and Writing - O Money Management.",
+                        "C7) Math Tx Taw Research",
+                        "1 Jeb Skills \u201cEx Community College / Higher Education",
+                        "CO Life Skills (for example: money O Continue College Credits (for example:,",
+                        "management...) STLCC)",
+                        "Bt Finishing High, School CO Digital Library books",
+                        "oO Using Computers and Technology \u00a9) Other:",
+                        "What challenges do you see in implementing educational programs for residents? (Check all that apply)",
+                        "0D Limited staff resources",
+                        "CO Technology access or support",
+                        "DD Limited resident interest",
+                        "\u201cET Securit Sf aa restrictions",
+                        "xO Other:"
+                    ]
+                },
+                {
+                    "question_id": 39,
+                    "response": [
+                        "Or ham Solves",
+                        "Are there any other education or reentry resources you fee! would be valuable to residents?."
+                    ]
+                },
+                {
+                    "question_id": 40,
+                    "response": [
+                        "Cher Programs 30 @\\\\ NOT Dusty Juy.2ei es",
+                        "What is your role at CJC? (optional)",
+                        "1 Unit Manager",
+                        "SSCIC Officer\u2019",
+                        "0. Case Worker",
+                        "\u2018DD CJC Leadership",
+                        "\u2018D.C Stakeholder \u2018or Volunteer",
+                        "\u2018Years of Experience in Corrections or at CJC? (optional)",
+                        "\u2018(O 0-4 Years ,=. 15-19 Years",
+                        "| 0 :5-9 Years (1 :20-24 Years",
+                        "() 10-14 Years 0 25+ Years",
+                        "\u2018Thank you for completing this survey. Your feedback is valuable and will help the City of St, Louis - Division of",
+                        "Corrections better understand educational and reentry resource needs: We appreciate your honesty and responses.",
+                        "CJC.Stakeholder Survey: Education and Reentry Resources",
+                        "; instructions: Please circle the answer that best fits:"
+                    ]
+                },
+                {
+                    "question_id": 41,
+                    "response": [
+                        "(Check alt that apply)",
+                        "Reading and Writing \u00a9 Money Management",
+                        "\u2018OO Math UO Law Res\u00e9arch",
+                        "O, Job Skills (2 Community College / Higher Education",
+                        "ca] Life Skills (for example: money O Continue College Credits (for example:",
+                        "_, Management...) STLCC)",
+                        "* Finishing High School C) Digital Library books",
+                        "C) \u2018Using Computers and Technology\u2019 \u2018O Other:",
+                        "What challenges do you see in implementing educational programs for residents? (Check all that apply)",
+                        "DD) Limited staff resources",
+                        "(J Technology'acc\u00e9ss or support",
+                        "(Limited resident interest",
+                        "[) Security or operational restrictions",
+                        "0 Other:"
+                    ]
+                },
+                {
+                    "question_id": 42,
+                    "response": [
+                        "Life skills"
+                    ]
+                },
+                {
+                    "question_id": 43,
+                    "response": [
+                        "NA"
+                    ]
+                },
+                {
+                    "question_id": 44,
+                    "response": [
+                        "wt",
+                        "What is your role at CJC? (optional)",
+                        "Dunit Manager",
+                        "(4) CJC Officer",
+                        "(0 Case Worker",
+                        "\u2018OD CJC Leadership",
+                        "0 CJC Stakeholder or Volunteer",
+                        "Years of Experience in Corrections or at CJC? (optional)",
+                        "OO 0-4 Years OA5-19 Years",
+                        "C1 5-9 Years :20-24 Years.",
+                        "O 10-14 Years 0 25+ Years. *",
+                        "_ Thank you for completing this survey: Your feedback is valuable and will help the City of St. Louis = Division of",
+                        "Corrections better understand educational and reentry resource needs. We appreciate your honesty and responses,",
+                        "CJC Stakeholder Survey: Education and Reentry Resources",
+                        "Jnstructions: Please circle the answer that best fits."
+                    ]
+                },
+                {
+                    "question_id": 45,
+                    "response": [
+                        "\u2018(Check all that apply)",
+                        "Bal Reading and Writing Lf Money Managerient",
+                        "\u2018g Math G@ Law Research",
+                        "A Job Skills AZ Community College / Higher Education",
+                        "# Life\u2019 Skills (for example: money\u201d C1 Continue College Credits (for example:",
+                        "management...) STLCC)",
+                        "Persia High School \u2018DD Digital Library books",
+                        "Using Computers and Technology \u2018C Other;",
+                        "What challenges do you see in implementing educational programs for residents? (Check all that apply)",
+                        "0 Limited staff resources .",
+                        "O Technology access or support 8",
+                        "[\u00a5 Limited resident interest",
+                        "O Security or operational restrictions",
+                        "U1 Other:"
+                    ]
+                },
+                {
+                    "question_id": 46,
+                    "response": [
+                        "S bebler Undeskadlon Tn Life- SUS"
+                    ]
+                },
+                {
+                    "question_id": 47,
+                    "response": [
+                        "M\\AQNoe. Racenliaa, class far same, indwiclucls,"
+                    ]
+                },
+                {
+                    "question_id": 48,
+                    "response": [
+                        "WN Aor LOA Lak 1 dyinle fs Would be.",
+                        "a Cea QMmarcen Par run \u00a9 ENAaAQe in",
+                        "What is your role at CJC? (optional) WWACCKA. sis Yo US.",
+                        "\u2018Gl Unit Manager\u2019",
+                        "EF CJG Officer",
+                        "\u2018L] Case Worker",
+                        "(1 CJc Leadership",
+                        "C1 \u2018CJC Stakeholder or Volunteer",
+                        "Years of Experience in Corrections or at CJC? (optional)",
+                        "T 0-4 Years QO 15-19 Years",
+                        "O 5-9 Years O 20-24 Years",
+                        "OO 10-14.Years (1 25+ Years",
+                        "Thank you for completing this survey.. Your feedback is valuable and will help the City of St. Louis = Division \u2018of",
+                        "Corrections better understand educational and reentry resource needs; We appreciate your honesty and responses,",
+                        "CJC Stakeholder Survey: Education and Reentry Resources",
+                        "Instructions: Please circle the answer that best fits.",
+                        "How interested are you in supporting educational programs for residents? (Select one)",
+                        "4 - Not Interested",
+                        "2- Slightly interested",
+                        "3- Somewhat Interested",
+                        "4~ Interested",
+                        "5 - Very Interested",
+                        "How important is it to provide residents with access to education and reentry programs? (Select one)",
+                        "1 = Not Important",
+                        "2 - Slightly Important"
+                    ]
+                },
+                {
+                    "question_id": 49,
+                    "response": [
+                        "5 Very Important",
+                        "\u2018Please explain why:",
+                        "How comfortable are you using computers or other technology in your work? (Select one)",
+                        "1 - Not Comfortable",
+                        "\u20182+ Slightly Comfortable",
+                        ":3-Somewhat Comfortable. >",
+                        "<=F= Comfortable \u2014.",
+                        "\u20185 -Very Comfortable \u00bb",
+                        "If new educational programs were offered for residents, how likely are you to support or engage",
+                        "with them? (Select one)",
+                        "\"4 -Not Likely |"
+                    ]
+                },
+                {
+                    "question_id": 50,
+                    "response": [
+                        "\u20183. - Somewhat Likely",
+                        "5 -Very Likely\u201d",
+                        "What is your experience with online learning or digital platforms? (Select one)",
+                        "(1) No experience",
+                        "Some experience",
+                        "oO Comfortable with ontine learning",
+                        "Oo Experienced with online learning",
+                        "(OVER)",
+                        "Thank you for completing this survey. Your feedback is valuable and will help the City of St. Louis - Division of",
+                        "Corrections better understand educational and reentry resource heeds. We appreciate your honesty and responses.",
+                        "CJC Stakeholder Survey: Education and Reentry Resources",
+                        "; Instructions: Please circle the answer that best fits.,"
+                    ]
+                },
+                {
+                    "question_id": 51,
+                    "response": [
+                        "(Check all that apply)",
+                        "Reading and Writing OJ Money Management",
+                        "Math 0 Law Research",
+                        "FB Job Skills ; Community College / Higher Education",
+                        "A Life Skills (for example: money O Continue College Credits (for example:",
+                        "{ management...) STLCC)",
+                        "i Finishing High School O Digitat Library books",
+                        "Using Computers and Technology 1 Other:;",
+                        "What challenges do you see in implementing educational programs for residents? (Check all that apply)",
+                        "CO Limited staff resources",
+                        "\u2018Technology access or support",
+                        "Limited resident interest:",
+                        "Security or operational restrictions",
+                        "Other:"
+                    ]
+                },
+                {
+                    "question_id": 52,
+                    "response": [
+                        "OO, Moghe don Some New Gous In Se.",
+                        "6 Ao O\\eherens rege fede ofl wor oA ede dS",
+                        "or oS soe Me wey 4d"
+                    ]
+                },
+                {
+                    "question_id": 53,
+                    "response": [
+                        "SS"
+                    ]
+                },
+                {
+                    "question_id": 54,
+                    "response": [
+                        "What is your role at CJC? (optional)",
+                        "CJ Unit Manager",
+                        "\u2018& Cc Officer",
+                        "\u00a9 Case Worker",
+                        "1 CJC Leadership",
+                        "Oo CJC Stakeholder or Volunteer",
+                        "Years of Experience in Corrections or at CJC? (optional)",
+                        "P04 Years 01 15-19 Years",
+                        "1 5-9 Years (1 20-24 Years",
+                        "O 40-14 Years D 25+ Years",
+                        "Thahk you for Completing this survey. Your feedback is valuable and will help the City of St. Louis - Division of",
+                        "Corrections better understand educational and reentry resource needs. We appreciate your honesty and responses.",
+                        "CJC Stakeholder Survey: Education and Reentry Resources",
+                        "Instructions: Please circle the answer that best fits.."
+                    ]
+                },
+                {
+                    "question_id": 55,
+                    "response": [
+                        "(Check all that apply)",
+                        "B Reading and Writing Money Management",
+                        "Math Law Research\u2019",
+                        "Job Skills w Community College / Higher Education"
+                    ]
+                },
+                {
+                    "question_id": 56,
+                    "response": [
+                        "management...) STLCC)",
+                        "Finishing High School Wrigitat Library books\u2019",
+                        "() Using Computers and Technology C) Other:",
+                        "z f",
+                        "What challenges do you see in implementing educational programs for residents? (Check all that apply)",
+                        "O Limited staff resources",
+                        "[arechnology access or support",
+                        "imited resident interest:",
+                        "Security or operational restrictions",
+                        "| Other;"
+                    ]
+                },
+                {
+                    "question_id": 57,
+                    "response": [
+                        "Sek To lbe, ode 46 Gunchen"
+                    ]
+                },
+                {
+                    "question_id": 58,
+                    "response": [
+                        "Qrorwps Prearern to tans dbpouk mental",
+                        "ee and vr. Yo En ines eCeeer fhern",
+                        "Is Gee else you'd like to share about your thoughts on educational programming for residents?:",
+                        "What is your role at CJC? (optional)",
+                        "0 \u2018Unit Manager",
+                        "ACSC Officer:",
+                        "(0 Case Worker",
+                        "\u2018CJC Leadership",
+                        "O..CJC Stakeholder or Volunteer",
+                        "Years of Experience in Corrections or at CJC? (optional)",
+                        "-4 Years (J 45-19 Years",
+                        "Ci 5-9 Years OC 20-24 Years",
+                        "O 10-14 Years DD 25+ Years",
+                        "Thank you for.completing this survey. Your fe\u00e9dback is valuable and will help the City of St. Louis = Division of",
+                        "Corrections better understand educational and reentry resource needs. We appreciate your honesty and responses.",
+                        "CJC Stakeholder Survey: Education and Reentry Resources",
+                        "2 ; ; instructions: Please circle the answer that best fits."
+                    ]
+                },
+                {
+                    "question_id": 59,
+                    "response": [
+                        "(Check all that apply)",
+                        "(C1 Reading\u2019and Writing 0 Money Management",
+                        "0 Math C Law Res\u00e9arch",
+                        "1 Job Skills C1 Community College / Higher Education",
+                        "Life Skills (for example: money (J Continue College Credits (for example:",
+                        "\u201c\u2018management...) STLCC)",
+                        "C1 Finishing High School O Digital Library books",
+                        "0 Using Computers and Technology 1 Other:",
+                        "What challenges do you see in implementing educational programs for residents? (Check all that apply),",
+                        "CO Limited staff resources \u00b0",
+                        "[A Technology access or support",
+                        "CO Limited resident interest",
+                        "C1 Security\u2019 or operational festrictions",
+                        "0) Other::"
+                    ]
+                },
+                {
+                    "question_id": 60,
+                    "response": [
+                        "ls there anything else you\u2019d like to share about your thoughts on educational programming for residents?:",
+                        "What is your role at CJC? (optional)",
+                        "O Unit Manager",
+                        "FY EJc Officer",
+                        "( Case Worker",
+                        "0. CJC Leadership",
+                        "C2 Ac Stakeholder or Volunteer",
+                        "Years of Experience in Corrections or at CJC? (optional)",
+                        "O) 0-4 Years 0 15-19 Years",
+                        "5-9 Years OC) 20-24 Years",
+                        "0 10-14 Years CO 25+ Years",
+                        "Thank Yoii for completing this survey. Your feedback is valuable and will help the City of St. Louis - Division of",
+                        "\u2018Corrections better understand educational and reentry resource needs. We appreciate your honesty and responses.",
+                        "CJC Stakeholder Survey: Education and Reentry Resources",
+                        "Instructions: Pleas\u00e9 circl\u00e9 the answer that best fits."
+                    ]
+                },
+                {
+                    "question_id": 61,
+                    "response": [
+                        "(Check all that apply)",
+                        "(-R\u00e9ading and Writing Bitfoney Management.",
+                        "O Math C1 Law Research",
+                        "Sidon Skills > Commitinity College / Higher Education",
+                        "0 Life Skills (for example: money (J Continue College.Credits (for example:",
+                        "management...) STLCC}",
+                        "inishing High School igital Library books",
+                        "\u00a7 Using Computers and Technology (1 Other:",
+                        "What challenges do you see in implementing educational programs for residents? (Check all that apply)",
+                        "fmited staff resources",
+                        "(J Technology access or support",
+                        "p-umited: ident interest",
+                        "Curity or operational restrictions",
+                        "OU Other:"
+                    ]
+                },
+                {
+                    "question_id": 62,
+                    "response": [
+                        "of He Real weld, oh] ;",
+                        "von een, snl of Coed Wiehe iod \u2014"
+                    ]
+                },
+                {
+                    "question_id": 63,
+                    "response": [
+                        "Lyte, iil \u2018Sead ies",
+                        "\u201cJ / ;"
+                    ]
+                },
+                {
+                    "question_id": 64,
+                    "response": [
+                        "What is your role at CJC? (optional)",
+                        "eo ero",
+                        "CJC Officer",
+                        "CO) Case Worker",
+                        "(O CJC Leadership",
+                        "0 CJC Stakeholder or Volunteer",
+                        "Years of Experience in Corrections or at CJC? (optional)",
+                        "0 0-4 Years OO 15-19 Years",
+                        "C1 5-9 Years 20\u00b004 Years",
+                        "1 10-14 Years O 25+ Years",
+                        "Thank you for completing this survey. Your feedback is valuable and will help the City of St. Louis;- Division of",
+                        "Corrections better understand educational and reentry resource needs. We appreciate your honesty and responses.",
+                        "CJC Stakeholder Survey: Education and Reentry Resources",
+                        "Instructions: Please circle the answer that best fits."
+                    ]
+                },
+                {
+                    "question_id": 65,
+                    "response": [
+                        "(Check all that apply)",
+                        "mh Reading and Writing (J Money Management",
+                        "O Math OC Law Research",
+                        "Job \u2018Skills 0 Community College / Higher Education",
+                        "C Life Skills (for example: money 1 Continue College Credits (for example:!",
+                        "management...) STLCC)",
+                        "Finishing High School OJ Digital Library books",
+                        "O) Using Computers and Technology O) Other:",
+                        "What challenges do you see in implementing educational programs for residents? (Check all that apply)",
+                        "0 Limited staff resources\u2019",
+                        "(C1/Technology access or support",
+                        "Limited resident interest",
+                        "C S\u00e9ecurity or operational restrictions",
+                        "O Other:",
+                        "\u2018What do you hope residents will gain fr educational tp patey ;",
+                        "Cot tte GLP cael 4 ed Compe# Wid Af ao tfecp",
+                        "Coll be Viack; 0"
+                    ]
+                },
+                {
+                    "question_id": 66,
+                    "response": [
+                        "What is your role at CJC? (optional)",
+                        "Ci, Unit Manager",
+                        "CJC Officer",
+                        "(J Case Worker",
+                        "1 CJC Leadership.",
+                        "O CJC Stakeholder or Volunteer",
+                        "Years of Experience in Corrections or at CJC? (optional)",
+                        "( 04 Years 0 A5-19 Years",
+                        "O 5-9 Years 20-24 Years",
+                        "D0 10-14 Years C) 25+ Years",
+                        "Thank you for completing this survey. Your feedback is valuable and will help the City of St. Louis Division of",
+                        "Corrections better understand educational and reentry resource needs.. We appreciate your honesty and responses.,",
+                        "CJC Stakeholder Survey: Education and Reentry Resources",
+                        "; Instructions: Pleas\u00e9 circle the answer that best fits."
+                    ]
+                },
+                {
+                    "question_id": 67,
+                    "response": [
+                        "(Check all that apply)",
+                        "Reading and Writing {d-Vioney Management",
+                        "ath (3\u00abtaw Research",
+                        ". 1 \u2018Job Skills 1 Community College / Higher Edtication,",
+                        "(\u00a5ife Skills (for example: money oO Continue College Credits (for example:",
+                        "management...) STLCC)",
+                        "Finishing High School [}-Digital Library books",
+                        "Using Computers and Technology 0, Other:",
+                        "7",
+                        "What challenges do you see in implementing educational programs for residents? (Check all that apply)",
+                        "C Limited staff resources",
+                        "Technology access or support",
+                        "C1 Limited resident interest 4",
+                        "o Security or operational restrictions *",
+                        "C1 Other: ."
+                    ]
+                },
+                {
+                    "question_id": 68,
+                    "response": [
+                        "Knawledly y to petvent Ine pe aden.",
+                        "Are there any other education or reentry resources you feel would be valuable to residents?.",
+                        "Tnprevins mentnl ue lth often being deterod"
+                    ]
+                },
+                {
+                    "question_id": 69,
+                    "response": [
+                        "rt bakes v'll\u00e9se 4 nee A OL",
+                        "What is your role at CJC? (optional)",
+                        "( Unit Manager",
+                        "[CAC Officer:",
+                        "C) Case Worker",
+                        "1 CJC Leadership",
+                        "1 CJC Stakeholder or Volunteer",
+                        "Years of Experience in Corrections or at CJC? (optional)",
+                        "( 0-4 Years LC) 15-19 Years",
+                        "CO 5-9 Years. O 20-24 Years",
+                        "10-14 Years UO 25+ Years",
+                        "Thank you for completirig this survey. Your feedback is Valliable and will help the City of St. Louis - Division of",
+                        "Corrections bett\u00e9r understand educational and reentry resource needs.. We appreciate your honesty and responses,",
+                        "CJC Stakeholder Survey: Education and Reentry Resources",
+                        "Instructions: Please circle the answer that best fits,"
+                    ]
+                },
+                {
+                    "question_id": 70,
+                    "response": [
+                        "(Chegk all that apply)",
+                        "Reading and Writing Money Management",
+                        "Math: Law Research",
+                        "Job Skills Community College / Higher Education",
+                        "Life Skills (for example: money\u201d",
+                        "management...)",
+                        "Finishing High School",
+                        "Using Computers and Technology",
+                        "Continue College Credits (for example:",
+                        "STLCC)",
+                        "Digital Library books",
+                        "Other:",
+                        "What challenges do you see in implementing educational programs for residents? (Check all that apply)",
+                        "OSL mites staff resources :",
+                        "Technology access or support",
+                        "C1 Limited resident interest",
+                        "(1 Security or operational restrictions",
+                        "OO other; *"
+                    ]
+                },
+                {
+                    "question_id": 71,
+                    "response": [
+                        "Are there any other education or reentry resources you feel would be valuable to residents?\u2019",
+                        "2"
+                    ]
+                },
+                {
+                    "question_id": 72,
+                    "response": [
+                        "What is your role at CJC? (optional)",
+                        ". 0, Unit Manager ,",
+                        "CJC Officer",
+                        "0 Case Worker:",
+                        "0 CJC Leadership",
+                        "1 CJC Stakeholder or Volunteer",
+                        "C1 0-4 Years 45-19 Years",
+                        "(1 5-9 Years 20-24 Years",
+                        "0 10-14 Years (1 25+ Years",
+                        "\u2018Years of Experience in Sis or at CJC? (optional)",
+                        "Thank you for completing this survey. Your feedback is valtiable and will help the City of St, Louis ~ Division of",
+                        "Corrections better understand educational and reentry resource needs, We appreciate your honesty and responses.,",
+                        "CJC Stakeholder Survey: Education and Reentry Resources",
+                        "Instructions: Please circle the\\answer that best fits."
+                    ]
+                },
+                {
+                    "question_id": 73,
+                    "response": [
+                        "check! all that apply)",
+                        "(",
+                        "(J Money Management",
+                        "OC Law Research",
+                        "1 Community College / Higher Education",
+                        "O Continue: College Credits (for example:",
+                        "STLCC)",
+                        "0 Digital Library books",
+                        "OO Others:",
+                        "\\o Reading and Writing",
+                        "Math",
+                        "Job Skills",
+                        "Life Skills (for example: money",
+                        "management...)",
+                        "Finishing High Schoo!",
+                        "Using Computers and Technology",
+                        "\u2018What \u00a2hallenges do you see in implementing educational programs for residents? (Check all that apply).",
+                        "\u2018C7 Limited staff resources",
+                        "Technology access or support",
+                        "Limited resident interest",
+                        "Security or operational restrictions",
+                        "\u2018Other:"
+                    ]
+                },
+                {
+                    "question_id": 74,
+                    "response": [
+                        "What is your role at CJC? (optional)",
+                        "(1 \u2018Unit Manager",
+                        "[& CIC Officer",
+                        "OJ Case Worker",
+                        "(1 .CJC Leadership",
+                        "\u2018CO CJC Stakeholder or Volunteer",
+                        "\u2018Years of Experience in Corrections or at CJC? (optional)",
+                        "0 \u20180-4 Years (1, 15-19 Years",
+                        "O1 5-9 Years 20-24 Years\u2019",
+                        "(1 10-14 Years O 25+ Years",
+                        "Thank you for completing this survey. Your feedback is valuable and will help the City of St, Louis - Division of",
+                        "Corrections better understand educational and reentry resource needs: We appreciate your honesty'and responses:",
+                        "EY",
+                        "CJC Stakeholder Survey: Education and Reentry Resources",
+                        "___dnstructions: Please circle the answer that best fits,"
+                    ]
+                },
+                {
+                    "question_id": 75,
+                    "response": [
+                        "_(Skeck all that apply)",
+                        "IN Reading and Writing : Money Management",
+                        "F ath SS \u2018aw Research",
+                        "SS iD Skills Community College / Higher Education,",
+                        "Li",
+                        "ife Skilis (for example: money C) Continiie College Credits (for example:",
+                        "anagement...) STLCC)",
+                        "SQ finishing High School Digital Library books",
+                        "Jsing Computers and Technology Oother:",
+                        "What challenges do you see in implementing educational programs for residents? (Check all that apply)",
+                        "0 Limited\u2019staff resources",
+                        "0 Technology access or support",
+                        "0 Limited resident interest",
+                        "CO) Security or operational r\u00e9strictions",
+                        "0 Other:"
+                    ]
+                },
+                {
+                    "question_id": 76,
+                    "response": [
+                        "Is there anything else you'd like to share about your thoughts on educational programming for residents?:",
+                        "What is your role at CJC? (optional)",
+                        ",O Unit Manager",
+                        ": CJC Officer",
+                        "0 Case Worker",
+                        "C) CJC Leadership",
+                        "C) CJc Stakehoider or Voliinteer",
+                        "Years of Experience jn Corrections or at CJC? (optional)",
+                        "O) 0-4 Years C7 15-19 Years",
+                        "0 5-9 Years: 20-24 Years",
+                        "\u00a9) 10-14 Years (0 \u00b035+ Years",
+                        "_ Thank you for completing this Survey: Your feedback is valuable\u2019 and will help the City of St- Louis - Division of",
+                        "Corrections better understand educational and reentry resource needs. We appreciate your honesty and responses.,",
+                        "CJC Stakeholder Survey: Education and Reentry Resources",
+                        "; ; Instructions: Please circle the answer that best fits.."
+                    ]
+                },
+                {
+                    "question_id": 77,
+                    "response": [
+                        "(Check all that apply) R,",
+                        "\u2018\u00a7 Reading and Writing ELMorey Management:",
+                        "\u201cE] Math _) Law Research",
+                        "Tiob Skills ' @ Community College / Higher Education",
+                        "Life Skills (for example: money : oO Continue College Credits (for example:",
+                        "Je, Management...) .. STLCC)",
+                        "Q Finishing High School \u201c<Q Digital Library books",
+                        "\u2018 Using Computers and Technology 0 Other:",
+                        "What challenges do you see in implementing educational programs for residents? (Check all that apply)",
+                        "CO Limited staff resources",
+                        "0 \u2018Technology access or support",
+                        "( Limited resident interest",
+                        "O Security or operational restrictions.",
+                        "OO Other: :",
+                        "What do you hope residents will gain from educational programs?\u2019"
+                    ]
+                },
+                {
+                    "question_id": 78,
+                    "response": [
+                        "a"
+                    ]
+                },
+                {
+                    "question_id": 79,
+                    "response": [
+                        "What is your role at CJC? (optional)",
+                        "CJ Unit Manager",
+                        "T\u2019CJC Officer",
+                        "Case Worker",
+                        "(.:CJC Leadership",
+                        "(1 Cic Stakeholder or Volunteer:",
+                        "Years of Experience in Corrections or at CJC? (optional)",
+                        "\u2018O04 Years 5-19 Years",
+                        "in",
+                        "\u20180 5-9 Years 0-24 Years",
+                        "0) 10-14 Years 0 25+ Years",
+                        "\u201cThank you for completing this survey. Your feedback is valuable and will help the City of St. Louis - Division of",
+                        "Corrections better understand educational and reentry resource needs. We appreciate your honesty and responses.",
+                        "CJC Stakeholder Survey: Education and Reentry Resources",
+                        "Instructions; Pl\u00e9ase circle the answer that b\u00e9st fits.",
+                        "How interested are you in supporting educational programs for residents? (Select one)",
+                        "1~ Not Interested\u2019",
+                        "2 ~ Slightly Interested",
+                        "3 - Somewhat Interested",
+                        "4 - Interested",
+                        "\u2018very Interested",
+                        "How important is it to provide residents with access to education and reentry programs? (Select one)",
+                        "1 - Not Important %",
+                        "2- Slightly Important",
+                        "3 ~ Somewhat Important =",
+                        "4 - Important",
+                        "\"BK Very Important",
+                        "Please explain why:",
+                        "\u2018How comfortable are you using computers or other technology in your work? (Select one)",
+                        "1- Not Comfortable",
+                        "2 - Slightly Comfortable",
+                        "3 - Somewhat Comfortable\u2019",
+                        "4 - Comfortable",
+                        "Very Comfortable S",
+                        "\u2018Ifnew educational programs were offered for residents, how likely are you to support or engage",
+                        "with them? (Select one)",
+                        "1~ Not Likely",
+                        "2 + Slightly Likely",
+                        "3 - Somewhat Likely",
+                        "4 - Likely",
+                        "R-Very Likely",
+                        "What is your experience with online learning or digital platforms? (Select one)",
+                        "\u20180 No experience",
+                        "0) Some experience",
+                        "0D Comfortable with online learning",
+                        "x Experienced with \u00e9nline learning",
+                        "(OVER)",
+                        "Thank you for completing this survey. Your feedback is valuable and will help the City of Si. Louis \u00ab Division of",
+                        "Corrections better understand educational and reentry resource needs: We appreciate your honesty and responses.",
+                        "CJC Stakeholder Survey; Education and Reentry Resources",
+                        "Instructions: Pl\u00e9ase circle th\u00e9 answer that best fits.",
+                        "How interested are you in supporting educational programs for residents? (Select one)",
+                        "4 -Not Interested",
+                        "2 - Slightly Interested",
+                        "3} Somewhat Interested",
+                        "4- Interested tog",
+                        "5 - Very Interested",
+                        "TA We Had tne stefA & would mime). \u2018",
+                        "How important is it to provide residents with access to education and reentry programs? (Select one)",
+                        "41- Not Important My em aged Fegteg er pk",
+                        "2 - Slightly Important.",
+                        "3 - Somewhat Important",
+                        "4 - Important",
+                        "5y Very Important",
+                        "Please explain why:",
+                        "TP we Nad the sto T woul dnt mind.",
+                        "How comfortable are you using computers or other technology in your work? (Select one)",
+                        "1 - Not Comfortable",
+                        "2 - Slightly Comfortable",
+                        "3 - Somewhat Comfortable",
+                        "- Comfortable",
+                        "5 /Very Comfortable",
+                        "If new educational programs were offered for residents, how likely are you to support or engage",
+                        "with them? (Select one) ;",
+                        "1- Not Likely:",
+                        "2 = Slightly Likely",
+                        "3 - Somewhat Likely\u2019",
+                        "4) Likely '\u00a2 ,",
+                        "Que ab wh we Need ne orcee ;",
+                        "What is your experience with online learning or digital platforms? (Select one)",
+                        "DD No experience.",
+                        "TD Some experience",
+                        "HL cerffortable with online learning",
+                        "o Experienced with online learning",
+                        "(OVER)",
+                        "\u2018Thank you for completing this Survey, Your feedback is valuable and will help the City of St. Louis = Division of",
+                        "Corrections better understand educational and reentry resource needs. We appreciate your honesty and responses.",
+                        "CJC Stakeholder Survey: Education and Reentry Resources",
+                        "; _____dnstructions: Please circle the answer that best fits.,"
+                    ]
+                },
+                {
+                    "question_id": 80,
+                    "response": [
+                        "(Check all that apply)",
+                        "0 Reading and Writing O Morey Management.",
+                        "O Math 0 Law Research",
+                        "0 Job Skills (&2 Community College / Higher Education",
+                        "C) Life Skills (for example: money Cid Continue College Credits (for example:",
+                        "_ Management.:.) STLCC)",
+                        "C824-Finishing High School CO Digital Library books",
+                        "(1 Using Computers and Technology\u2019 D Other:.",
+                        "What challenges do you see In implementing educational programs for residents? (Check all that apply)",
+                        "Limited staff resources",
+                        "\u20180 Technology access or support",
+                        "7 Limited resident interest.",
+                        "a Security or operational restrictions",
+                        "O Other:",
+                        "What do you hope residents will gain from educational programs? 7 : .",
+                        "; St hope. Anat +h Bain fe shits is basie intormortion, als",
+                        "halpleg) Hrem compltts Uae high schoo diploma F HNO college",
+                        "cowses noice Apres) Ww. . 7"
+                    ]
+                },
+                {
+                    "question_id": 81,
+                    "response": [
+                        "\u2014 pthibllttocbie~ TF Wulping Some of te inmates be",
+                        "Ae +o Sd shobla work"
+                    ]
+                },
+                {
+                    "question_id": 82,
+                    "response": [
+                        "eng hn They gor thy spt MWouqus \u00a2 Lnroud",
+                        "Seok f 3\u00b0 nade Aes Co wrtd. ero a OL a",
+                        "\u2018What {s your role at CJC? (optional) ; + .",
+                        "1 Unit Manager .",
+                        "SE. CIC Officer",
+                        "OO Case Worker",
+                        "(0 CJC Leadership",
+                        "(1 CJC Stakeholder or Volunteer:",
+                        "Years of Experience in Corrections or at CJC? (optional)",
+                        "CyK0-4 Years 15-19 Years:",
+                        "O 5-9 Years 0 20-24 Years",
+                        "10-14 Years CO 25+ Years",
+                        "Thank you for completing this survey. Your feedback is Valuable and will help the City of St. Louis - Division of",
+                        "Corrections bett\u00e9r understand educational and reentry resource needs. We appreciate your honesty and responses.",
+                        "CJC Stakeholder Survey: Education and Reentry Resources",
+                        "Instructions: Please circle the answ\u00e9r that best fits."
+                    ]
+                },
+                {
+                    "question_id": 83,
+                    "response": [
+                        "(Check all that apply) :",
+                        "renting and Writing [Money Management:",
+                        "0 Math Law Research",
+                        "A Job Skills 0) Community College / Higher Education",
+                        "D Life Skills (for example: money \u00a9 Continue College Credits (for example:",
+                        "management...) STLCC)",
+                        "C1 Finishing High Schoo! (2 Digital Library books",
+                        "C1 Using Computers and Technology O Other:",
+                        "What challenges do you see in implementing educational programs for residents? (Check all that apply):",
+                        "O Limited staff resources :",
+                        "Tecnology access or support",
+                        "CO Limited resident interest",
+                        "Of sovutty or operational restrictions",
+                        "O Other:"
+                    ]
+                },
+                {
+                    "question_id": 84,
+                    "response": [
+                        "GGED audor \u00a2 real yuderstaudi UG"
+                    ]
+                },
+                {
+                    "question_id": 85,
+                    "response": [
+                        "Lawyers or PO vis lahious Aid clicwt Coumenication",
+                        "Mental help aud. therap\\te"
+                    ]
+                },
+                {
+                    "question_id": 86,
+                    "response": [
+                        "Low aud mohow uwderstandi YS \u00ab",
+                        "What is your role at CJC? (optional)",
+                        "O Unit Manager : a",
+                        "0 CJC Officer,",
+                        "0 Case Worker",
+                        "(1, CJC Leadership",
+                        "CJC Stakeholder or Volunteer",
+                        "Years of Experience in Corrections or at CJC? (optional)",
+                        "0-4 Years D0 15-19 Years",
+                        "5-9 Years C0. 20-24 Years",
+                        "OO 10-14 Years 0 25+ Years",
+                        "Thank you.for completing this survey. Your feedback is valuable and will help the City of St, Louis - Division of",
+                        "Corrections better understand educational and reentry resource needs. We appreciate your honesty and responses:",
+                        "CJC Stakeholder Survey: Education and Reentry Resources",
+                        "instructions: Please circle the answer that best fits."
+                    ]
+                },
+                {
+                    "question_id": 87,
+                    "response": [
+                        "(Ch\u00e9ck all that apply) z",
+                        "(Reading and Writing oO Money Management",
+                        "C) Math (0 LaW Research",
+                        "C1 \u2018Job Skills (1 Community College / Higher Education",
+                        "DD Life Skills (for example: money 1 Continue College Credits (for example:",
+                        "management...) STLCC)",
+                        "0. \u2018Finishing High School CJ Digital Library books",
+                        "\u2018DD \u2018Using Computers and Technology\u2019 O Other:",
+                        "What challenges do you see in implementing educational programs for residents? (Check all that apply):",
+                        "C Limited staff resources",
+                        "fo {Technology access or Support",
+                        "\u2018C1 Limited resident interest:",
+                        "(1 \u2018Security or operational restrictions",
+                        "0 Other:",
+                        "a",
+                        "4 -",
+                        "What do you hope residents will gain from educational programs? , . ~* wu a",
+                        "Fa",
+                        "Are there any other education or reentry resources you feel would be valuable to residents? /: . dh ' d",
+                        "ree",
+                        "8ls there anything else you'd like to share about your thoughts on educational programming for residents?\u201d o",
+                        "What is your role at CJC? (optional)",
+                        "G-Unit Manager",
+                        "00 CJC Officer",
+                        "O Case Worker",
+                        "0 CJC Leadership",
+                        "0 CJC Stakeholder or Volunteer",
+                        "Years of Experience in Corrections or at CJC? (optional)",
+                        "[0-4 Years 0 15-19 Years \u201c",
+                        "(0 5-9 Years DO 20-24 Years",
+                        "1 10-14 Years. DO 25+ Years",
+                        "Thank you for completing this survey: Your feedback is valuable and will help the City of St. Louis - Division of",
+                        "Corrections better understand educational and reentry resource needs. We appreciate your honesty and responses."
+                    ]
+                }
+            ]
+        },
+        {
+            "survey_type": "Stakeholder",
+            "survey_id": "stakeholder2.pdf",
+            "responses": [
+                {
+                    "question_id": 1,
+                    "response": [
+                        "(Check all that apply)",
+                        "(A. Reading and Writing \u20182 Money Management,",
+                        "| Math OC Law Research",
+                        "JA dob Skills 0 Community Coll\u00e9ge / Higher Education",
+                        "1 Life Sills (for example: money C] Continue College Credits (for example:",
+                        "management..:) STLCC) |",
+                        "Gi Finishing High School & Digitat Library books",
+                        "val Using Computers and Technology CO Other:",
+                        "What challenges do you see in implementing educational programs for residents? (Check all that apply)",
+                        "O Limited staff resources Bi",
+                        "Zax Technology access or support '",
+                        "; 2) Limited resident interest, |",
+                        "C1 Security or operational restrictions",
+                        "\u2018CG Other:"
+                    ]
+                },
+                {
+                    "question_id": 2,
+                    "response": [
+                        "A wear Out oF (overt, other Phas Tes |",
+                        "\u00e9"
+                    ]
+                },
+                {
+                    "question_id": 3,
+                    "response": [
+                        "fdu CoAting Pomily Ord Stig ps rders = En Conan 79 Phen",
+                        "dy wot be fa o& Toc! Sp ster"
+                    ]
+                },
+                {
+                    "question_id": 4,
+                    "response": [
+                        "Eb Shovid be. apg lied te ad( Regs dows",
+                        "What is your role at CJC? (optional)",
+                        "(0 Unit Manager",
+                        "0) cJc Officer \"",
+                        "0 Case Worker ]",
+                        "{Zt-CJC Leadership",
+                        "(1 CJC Stakeholder or Volunteer",
+                        "\u2018Years of Experience in Corrections or at CJC? (optional)",
+                        "O 04Years OD 15-19 Years.",
+                        "(1 5-9 Years PA 20-24 Years",
+                        "C1 10-14 Years (25+ Years\u2019",
+                        "Thank you for completing this survey. Your feedback is valuable and will help the City of St, Louis - Division of",
+                        "Corrections better understand educational and reentry resource needs. We appreciate your honesty and responses.,"
+                    ]
+                }
+            ]
+        },
+        {
+            "survey_type": "Stakeholder",
+            "survey_id": "stakeholder3.pdf",
+            "responses": [
+                {
+                    "question_id": 1,
+                    "response": [
+                        "4 ~ interested"
+                    ]
+                },
+                {
+                    "question_id": 2,
+                    "response": [
+                        "How important is it to provide residents with access to education and reentry programs? (Select one)",
+                        "4\u00b0 Not Important",
+                        "2 ~ Slightly Important"
+                    ]
+                },
+                {
+                    "question_id": 3,
+                    "response": [
+                        "\u20184 = {mportant",
+                        "5 - Very Important\u2019",
+                        "\u201cpasate explain why:",
+                        "lease explain why:",
+                        "How comfortable are you using computers or other technology in your work? (Select one)\u2019",
+                        "1 - Not Comfortable",
+                        "2 - Slightly Comfortable",
+                        "3 - Somewhat Comfortable",
+                        "4 - Comfortable",
+                        "5 - Very Comfortable",
+                        "a",
+                        "If new educational programs were offered for residents, how likely are you to support or engage",
+                        "with them? (Select one)",
+                        "\u20181 ~ Not Likely"
+                    ]
+                },
+                {
+                    "question_id": 4,
+                    "response": [
+                        "3 - Somewhat Likely",
+                        "4 - Likely",
+                        "5 - Very Likely",
+                        "ee\u2014\u2014\u2014\u2014",
+                        "What is your experience with online learning or digital platforms? (Select one)",
+                        "(C, No experience",
+                        "(1 Some experience",
+                        "7 \u2018C1 Comfortable with online learning",
+                        "\u201cT7 Experienced with online learning",
+                        "(OVER)",
+                        "Thank you for completing this survey. Your feedback is valuable and will help the City of St. Louis\u2019- Division of",
+                        "Corrections better understand educational and reentry resource needs. We appreciate. your honesty and responses:"
+                    ]
+                }
+            ]
+        }
+    ]
+}

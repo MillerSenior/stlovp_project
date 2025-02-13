@@ -1,0 +1,5 @@
+Initializing application... ⚙️
+Loading configuration... 📄
+Connecting to database... 🔗
+Running initial setup... 🔄
+Starting main process... 🚀
